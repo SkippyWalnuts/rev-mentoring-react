@@ -12,7 +12,7 @@ export default function Hero() {
         </h1>
         </div>
         <div className="col">
-        <img src="./images/teacher_undraw.svg" className="img-fluid teacher-img"></img>
+        <img src="./images/teacher_undraw.svg" className="img-fluid teacher-img" alt="teacher at laptop teaching virtually"></img>
         </div>
         </div>
         <h2>
