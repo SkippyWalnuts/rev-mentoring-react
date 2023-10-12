@@ -1,36 +1,15 @@
 body {
     background: #1c274a;
-    font-family: monospace;
-    margin: 15px 25px;
+    margin: 50px auto;
     min-width: 330px;
 }
 
-h1 {
-    color: #e8ab49;
-     font-size: 100px;
-    font-weight: bold;
-    margin: 0 auto 20px;
-    text-align: center;
-}
 
-h2 {
-    font-size: 30px;
-    font-weight: 600;
-    margin: 0 auto;
-}
 
-h1, h2 {
-    font-family: 'Carlito', sans-serif;
-}
-
-h3 {
+.App h3 {
     font-size: 20px;
     font-weight: 600;
-margin: 20px auto;
-}
-
-h2,
-h3 {
+    margin: 20px auto;
     background: #e8ab49;
     border-radius: 2px 2px 0 0;
     color: #1c274a;
@@ -39,16 +18,17 @@ h3 {
 }
 
 
-p {
+.App p {
     color: #e8ab49;
+    font-family: monospace;
     display: block; 
-    font-size: 25px;
+    font-size: 20px;
     line-height: 35px;
     text-align: justify;
 
 }
 
-ul {
+.App ul {
     color: #e8ab49;
     font-size: 25px;
     list-style: none;
@@ -56,7 +36,7 @@ ul {
     padding: 10px;
 }
 
-li {
+.App li {
     text-transform: uppercase;
     border-radius: 3px;
     text-align: center;
@@ -66,7 +46,7 @@ li {
 }
 
 
-a {
+.App a {
     display: block;
     color: #e8ab49;
     font-size: 15px;
@@ -75,7 +55,7 @@ a {
     text-transform: uppercase;
 }
 
-button {
+.App button {
     background: #e8ab49;
     border: 1px solid #392f2f;
     border-radius: 20px;
@@ -84,67 +64,57 @@ button {
     cursor: pointer;
     display: block;
     font-size: 20px;
-    margin: 25px auto 0 auto;
+    margin: 25px auto 0;
     padding: 15px 20px;
     transition: all 120ms ease-in-out;
 }
 
-button:hover {
+.App .Application button:hover {
     background: transparent;
     border: 1px solid #e8ab49;
     color: #e8ab49;
 }
 
 
-.rev-mentor-img { 
-    border: 1px solid #e8ab49;
-}
 
 
-.content {
+
+.App .content {
     align-items: center;
-    max-width: 750px;
+    max-width: 600px;
 }
 
-.titles {
-    text-transform: uppercase;
-}
 
-.participants {
+.App .participants {
     color: #a2d0de;
     font-weight: bolder;
 }
 
 
-.workshops:hover {
+.App .workshops:hover {
     background: #a2d0de;
     color: #1c274a;
-    
+    cursor: pointer;
 }
 
 
-.learn-more:hover {
+.App .learn-more:hover {
     color: #a2d0de;
-    transition: all 120ms ease-in-out;
+    transition: all 2ms ease-in-out;
 }
 
-@media (max-width: 660px) {
+@media (max-width: 700px) {
   body {
-    margin: 0 1px;
+    margin: 30px;
   }
-       h1 {
-        font-size: 60px;
-    }
-    h2 {
-        font-size: 20px;
-    }
 
-    p {
-    font-size: 15px;
+
+    .App  p {
+    font-size: 18px;
     line-height: 30px;
     }
     
-    ul {
+    .App  ul {
         font-size: 20px;
     }
 

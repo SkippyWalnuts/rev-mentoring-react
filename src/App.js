@@ -1,26 +1,14 @@
-
+import React from "react";
+import Hero from "./Hero";
+import Application from "./Application";
+import ExternalLinks from "./ExternalLinks";
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-
+<Hero />
 <div className="container-fluid content">
-    <div className="titles">
-        <h1>
-           Reverse Mentoring
-        </h1>
-        <h2>
-            Supporting the development of inclusive leadership
-        </h2>
-    </div>
-   
-
-    <img src="./images/reverse-mentoring.webp"
-    className="img-fluid rev-mentor-img"    
-    alt="Reverse Mentoring" />
-
-    <hr />
 
     <div>
         <p>
@@ -91,16 +79,10 @@ function App() {
             by job level and matched according to application-form responses.
         </p>
 
-        <a href="https://www.bbc.com/worklife/article/20221110-reverse-mentorship-how-young-workers-are-teaching-bosses"
-            rel="noreferrer" target="_blank" className="learn-more">
-            👉🏽Reverse mentorship: How young workers are teaching bosses: BBC Worklife👈🏾
-        </a>
-
-        <button>
-            <strong>APPLY HERE!<br />👋🏽👋🏿👋🏻👋🏾 </strong>
-        </button>
+ <ExternalLinks />       
     </div>
     <br />
+    <Application />
 </div>
 
     </div>

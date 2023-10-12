@@ -1,3 +1,37 @@
 .Hero h1 {
+    margin: 0 auto;
+    text-align: right;
     text-transform: uppercase;
+    color: #e8ab49;
+     font-size: 100px;
+    font-weight: bold;
+    margin: 0 auto 20px;
+    text-align: right;
+}
+
+.Hero h2 {
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0 auto;
+    background: #e8ab49;
+    border-radius: 2px 2px 0 0;
+    color: #1c274a;
+    padding: 20px;
+    text-align: center;
+}
+.Hero h1, h2 {
+    font-family: 'Carlito', sans-serif;
+}
+.Hero .rev-mentor-img { 
+  margin: 0 auto;
+}
+
+@media (max-width: 700px) {
+    .Hero  h1 {
+        font-size: 60px;
+        text-align: left;
+    }
+    .Hero  h2 {
+        font-size: 20px;
+    }
 }
