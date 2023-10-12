@@ -92,7 +92,7 @@ function App() {
         </p>
 
         <a href="https://www.bbc.com/worklife/article/20221110-reverse-mentorship-how-young-workers-are-teaching-bosses"
-            target="_blank" className="learn-more">
+            rel="noreferrer" target="_blank" className="learn-more">
             👉🏽Reverse mentorship: How young workers are teaching bosses: BBC Worklife👈🏾
         </a>
 
