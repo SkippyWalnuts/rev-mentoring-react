@@ -1,0 +1,20 @@
+:root {
+    --primary-color: #1c274a;
+    --secondary-color: #e8ab49;
+
+}
+
+.RevNavbar {
+    background-color: var(--secondary-color);
+    font-family: 'Carlito', sans-serif;
+ 
+}
+
+.RevNavbar .brand {
+    color: var(--primary-color);
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.5;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}

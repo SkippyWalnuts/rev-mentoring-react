@@ -1,14 +1,20 @@
+:root {
+    --primary-color: #1c274a;
+    --secondary-color: #e8ab49;
+
+}
+
 .Hero {
     margin: 100px auto;
-    max-width: 850px;
+    max-width: 550px;
 
 }
 
 .Hero h1 {
     margin: 0 auto;
     text-transform: uppercase;
-    color: #e8ab49;
-    font-size: 90px;
+    color: var(--secondary-color);
+    font-size: 65px;
     font-weight: bold;
     
    }
@@ -17,9 +23,9 @@
     font-size: 25px;
     font-weight: 600;
     margin: 10px auto 500px;
-    background: #e8ab49;
+    background: var(--secondary-color);
     border-radius: 2px;
-    color: #1c274a;
+    color: var(--primary-color);
     padding: 20px;
     text-align: center;
 }
@@ -32,15 +38,15 @@
 
 @media (max-width: 830px) {
     .Hero {
-        margin: 50px auto;
-        max-width: 550px;
+        margin: 20px auto;
+        padding: 10px;
     
     }
     .Hero  h1 {
-        font-size: 50px;
+        font-size: 35px;
         
     }
     .Hero  h2 {
-        font-size: 20px;
+        font-size: 18px;
     }
 }

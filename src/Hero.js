@@ -23,8 +23,6 @@ export default function Hero() {
             Supporting the development of inclusive leadership
         </h2>
         </div>
-        
-
     </div>
 </div>
     );
