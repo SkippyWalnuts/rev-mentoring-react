@@ -22,9 +22,12 @@ function App() {
             normally
             interact outside of
             such a programme.
-            <br />
-
-            <br />
+   </p>
+    
+   <img src="./images/reverse-mentoring.webp"
+    className="img-fluid rev-mentor-img"    
+    alt="Reverse Mentoring" id="person pointing to a ladder against a wall of locks, while the person next to them holds a key"/>
+ <p>
             Workshops led by{" "}<span className="participants">Mentor Advisors</span>{" "}gave guidance and a chance to reflect
             with
             peers on inclusion-related

@@ -1,20 +1,28 @@
+.Hero {
+    margin: 100px auto;
+    max-width: 850px;
+
+}
+
 .Hero h1 {
     margin: 0 auto;
-    text-align: right;
     text-transform: uppercase;
     color: #e8ab49;
-     font-size: 100px;
+    font-size: 100px;
     font-weight: bold;
     margin: 0 auto 20px;
-    text-align: right;
+   }
+
+.Hero .teacher-img {
+    margin: 0 auto 20px;
 }
 
 .Hero h2 {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 600;
-    margin: 0 auto;
+    margin: 0 auto 500px;
     background: #e8ab49;
-    border-radius: 2px 2px 0 0;
+    border-radius: 2px;
     color: #1c274a;
     padding: 20px;
     text-align: center;
@@ -29,7 +37,7 @@
 @media (max-width: 700px) {
     .Hero  h1 {
         font-size: 60px;
-        text-align: left;
+        
     }
     .Hero  h2 {
         font-size: 20px;
