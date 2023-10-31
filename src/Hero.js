@@ -18,11 +18,14 @@ export default function Hero() {
         </div>
 
         </div>
+        <div className="row">
         <h2>
             Supporting the development of inclusive leadership
         </h2>
-        </div> 
+        </div>
+        
 
     </div>
+</div>
     );
 }
