@@ -9,7 +9,7 @@ export default function Hero() {
         <div className="col">
         <img src="./images/teacher_undraw.svg" className="img-fluid teacher-img" alt="teacher at laptop teaching virtually"></img>
         </div>
-            <div className="col-8">
+            <div className="col">
         <h1>
            Reverse
            <br />
