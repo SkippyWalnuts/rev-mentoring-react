@@ -18,8 +18,8 @@ export default function About() {
         </div>
     </div>
     <div className="row">
-                <h4><em>Dr. Brené Brown:</em> "…rarely can a <strong>response</strong> make something better. 
-                     What makes something better is <strong>connection</strong>"​</h4>
+                <h4>"…rarely can a <strong>response</strong> make something better. 
+                     What makes something better is <strong>connection</strong>" (Dr. Brené Brown)​</h4>
                 </div> 
 </div>      
 </div>

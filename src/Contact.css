@@ -24,4 +24,10 @@
     .Contact {
         margin: 30px auto 170px;
     }
+
+    .Contact button {
+        font-size: 12px;
+        padding: 8px;
+        width: 100px;
+    }
 }
