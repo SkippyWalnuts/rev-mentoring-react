@@ -1,3 +1,9 @@
+:root {
+    --primary-color: #1c274a;
+    --secondary-color: #e8ab49;
+
+}
+
 body {
     background: #1c274a;
     min-width: 300px;

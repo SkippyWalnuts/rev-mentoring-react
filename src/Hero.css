@@ -1,9 +1,3 @@
-:root {
-    --primary-color: #1c274a;
-    --secondary-color: #e8ab49;
-
-}
-
 .Hero {
     margin: 90px auto 0;
     max-width: 650px;
@@ -35,7 +29,7 @@
 
 @media (max-width: 580px) {
     .Hero {
-        margin: 70px auto;
+        margin: 70px auto 0;
         max-width: 450px;
         padding: 10px;
       
