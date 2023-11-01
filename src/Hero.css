@@ -5,21 +5,21 @@
 }
 
 .Hero {
-    margin: 60px auto;
-    max-width: 450px;
+    margin: 40px auto;
+    max-width: 550px;
    }
 
 .Hero h1 {
     margin: 0 auto;
     text-transform: uppercase;
     color: var(--secondary-color);
-    font-size: 50px;
+    font-size: 70px;
     font-weight: bold;
     
    }
 
 .Hero h2 {
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 600;
     margin: 10px auto 500px;
     background: var(--secondary-color);
@@ -33,17 +33,18 @@
 }
 
 
-@media (max-width: 480px) {
+@media (max-width: 580px) {
     .Hero {
-        margin: 30px auto;
+        margin: 20px auto;
+        max-width: 450px;
         padding: 10px;
       
     }
     .Hero  h1 {
-        font-size: 35px;
+        font-size: 50px;
         
     }
     .Hero  h2 {
-        font-size: 12px;
+        font-size: 17px;
     }
 }
