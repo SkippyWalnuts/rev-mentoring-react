@@ -1,0 +1,20 @@
+.About {
+    background-color: var(--secondary-color);
+    margin: 0 auto;
+}
+
+.About .about-col {
+    padding: 0;
+}
+
+.About h3 {
+    background-color: var(--accent-color);
+    color: var(--primary-color);
+    font-family: 'Carlito', sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    margin: 0 auto;
+    padding: 25px 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
