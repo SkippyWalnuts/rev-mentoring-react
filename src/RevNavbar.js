@@ -9,12 +9,12 @@ export default function RevNavbar() {
     <div className="RevNavbar">
     <Navbar collapseOnSelect expand="sm">
       <Container className="nav-container">
-        <Navbar.Brand className="nav-brand" href="#home">Reverse Mentoring</Navbar.Brand>
+        <Navbar.Brand className="nav-brand" href="/#home">Reverse Mentoring</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav"/>
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="#home" className="nav-link">Home</Nav.Link>
-            <Nav.Link href="#link" className="nav-link">About</Nav.Link>
+            <Nav.Link href="/#home" className="nav-link">Home</Nav.Link>
+            <Nav.Link href="/#about" className="nav-link">About</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
