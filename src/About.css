@@ -22,12 +22,19 @@
 }
 
 .About h4 {
-    color: var(--accent-color);
+    background-color: var(--accent-color);
+    color: var(--secondary-color);
     font-family: 'Quicksand', sans-serif;
-    font-size: 20px;
-    padding: 20px 10px 30px;
+    font-size: 25px;
+    padding: 15px 10px;
     text-align: center;
 }
+
+.About p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    padding: 10px 70px;
+  }
 
 @media (max-width: 580px) {
     .About h3 {
@@ -40,6 +47,11 @@
     }
 
     .About h4 {
-      font-size: 16px;
+      font-size: 22px;
+    }
+
+    .About p {
+      font-size: 18px;
+      padding: 10px 30px;
     }
 }

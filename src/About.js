@@ -18,9 +18,15 @@ export default function About() {
         </div>
     </div>
     <div className="row">
-                <h4>"…rarely can a <strong>response</strong> make something better. 
-                     What makes something better is <strong>connection</strong>" (Dr. Brené Brown)​</h4>
-                </div> 
+        <h4>"…rarely can a <strong>response</strong> make something better. 
+                What makes something better is <strong>connection</strong>" (Dr. Brené Brown)​</h4>
+        <p>We <em>reverse</em> the standard mentoring practice of a Senior Leader mentoring an Employee for career advancement​.
+​This time, an Employee mentors a Senior Leader on their experiences and perspectives. These include topics discussed during our workshops, or others that may come up organically during conversation. ​
+<br />
+<br />
+​Reverse Mentoring provides opportunities to expand our understanding of those without the same privileges, developing a more inclusive leadership mentality by using nothing more than human connection.​
+​</p>
+        </div> 
 </div>      
 </div>
        
