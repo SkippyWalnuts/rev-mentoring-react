@@ -5,11 +5,13 @@
 }
 
 .RevNavbar .nav-container {
+    margin: 0 5px;
     padding: 0 10px;
 }
 
 .RevNavbar .nav-brand {
    text-transform: uppercase;
+   
 }
 
 .RevNavbar .nav-brand, .nav-link {

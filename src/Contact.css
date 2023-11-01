@@ -7,7 +7,7 @@
     border-radius: 8px;
     color: var(--accent-color);
     font-family: 'Quicksand', sans-serif;
-    font-size: 14px;
+    font-size: 13px;
     font-weight: 650;
     margin: 0 30px;
     padding: 10px;
@@ -26,7 +26,7 @@
     }
 
     .Contact button {
-        font-size: 12px;
+        font-size: 11px;
         padding: 8px;
         width: 100px;
     }
