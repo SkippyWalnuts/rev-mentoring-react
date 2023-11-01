@@ -3,7 +3,7 @@ import "./Hero.css";
 
 export default function Hero() {
     return (
-<div className="Hero mb-5">
+<div className="Hero">
     <div className="container-fluid">
         <div className="row align-items-center mb-2">
         <div className="col">

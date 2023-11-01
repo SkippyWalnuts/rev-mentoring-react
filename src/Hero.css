@@ -5,7 +5,7 @@
 }
 
 .Hero {
-    margin: 40px auto;
+    margin: 90px auto 0;
     max-width: 650px;
    }
 
@@ -21,7 +21,7 @@
 .Hero h2 {
     font-size: 20px;
     font-weight: 600;
-    margin: 10px auto 500px;
+    margin: 10px auto 0;
     background: var(--secondary-color);
     border-radius: 2px;
     color: var(--primary-color);
@@ -35,7 +35,7 @@
 
 @media (max-width: 580px) {
     .Hero {
-        margin: 20px auto;
+        margin: 70px auto;
         max-width: 450px;
         padding: 10px;
       
