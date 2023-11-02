@@ -11,8 +11,11 @@
     
 }
 
-.About h3, .Overview h3 {
+.About h3 {
     color: var(--primary-color);
+}
+
+.About h3, .Overview h3 {
     font-family: 'Carlito', sans-serif;
     font-size: 30px;
     font-weight: 800;
@@ -34,7 +37,7 @@
 }
 
 .About p {
-      font-size: 22px;
+    font-size: 22px;
     font-weight: 600;
     padding: 10px 25px;  
     text-align: left;
@@ -49,14 +52,15 @@
     font-family: 'Quicksand', sans-serif;
   }
 
-  .Overview ul {
+  .Overview {
     background-color: var(--primary-color);
+    color: var(--secondary-color);
 }
 
   .Overview button {
     display: block;
-    border-radius: 20px;
-    font-size: 20px;
+    border-radius: 25px;
+    font-size: 18px;
     font-weight: 700;
     letter-spacing: 4px;
     padding: 20px;
@@ -67,7 +71,7 @@
 
 
 @media (max-width: 700px) {
-    .About h3, .Overview h3 {
+    .About h3, .Overview h3, .About p {
         font-size: 18px;
 
     }
@@ -80,12 +84,9 @@
       font-size: 15px;
     }
 
-    .About p,  .Overview button{
-      font-size: 18px;
-      
-    }
-
     .Overview button {
+        border-radius: 15px;
+        font-size: 11px;
         padding: 12px;
         width: 50%;
     }

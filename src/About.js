@@ -21,7 +21,11 @@ export default function About() {
     </div>
     <div className="row">
         <h4>"…rarely can a <strong>response</strong> make something better. 
-                What makes something better is <strong>connection</strong>" (Dr. Brené Brown)​</h4>
+                What makes something better is <strong>connection</strong>"{" "}
+           <a href="https://brenebrown.com/"
+            target="_blank"
+            rel="noreferrer"
+            alt="Brené Brown's Website">Brené Brown</a></h4>
     </div> 
     <div className="row align-items-center">
         <div className="col">
