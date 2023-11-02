@@ -7,7 +7,7 @@ export default function Hero() {
     <div className="container-fluid">
         <div className="row align-items-center mb-2">
         <div className="col">
-        <img src="./images/teacher_undraw.svg" className="img-fluid teacher-img" alt="teacher at laptop teaching virtually"></img>
+        <img src="./images/teacher_undraw.svg" className="img-fluid teacher-img" alt="teaching at a laptop"></img>
         </div>
             <div className="col">
         <h1>
