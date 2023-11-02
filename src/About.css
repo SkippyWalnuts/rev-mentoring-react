@@ -25,14 +25,16 @@
     background-color: var(--accent-color);
     color: var(--secondary-color);
     font-family: 'Quicksand', sans-serif;
-    font-size: 25px;
-    padding: 15px 10px;
+    font-size: 20px;
+    padding: 12px;
     text-align: center;
 }
 
 .About p {
+    color: var(--primary-color);
     font-family: 'Quicksand', sans-serif;
     font-size: 20px;
+    font-weight: 600;
     padding: 10px 70px;
   }
 
