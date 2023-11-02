@@ -32,7 +32,7 @@ export default function About() {
         <p>​Reverse Mentoring provides opportunities to expand understanding of those without the same privileges, developing inclusive leadership by using the power of <em>connection</em>.​</p>
 </div>
         <div className="col">
-        <p className="p-right" id="overview">By <em>reversing</em> the role of Mentor​, 
+        <p className="p-right" id="course">By <em>reversing</em> the role of Mentor​, 
         Employees are empowered & supported in mentoring Senior Leaders on their unique experiences & alternative perspectives.</p> 
         </div>
     </div>
