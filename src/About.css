@@ -56,13 +56,13 @@
   .Overview button {
     display: block;
     border-radius: 20px;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 700;
     letter-spacing: 4px;
-    margin: 20px auto 0;
     padding: 20px;
-
-
+    margin: 20px auto 0;
+    width: 35%;
+    
 }
 
 
@@ -87,6 +87,7 @@
     }
 
     .Overview button {
+        padding: 15px;
         width: 50%;
     }
 
