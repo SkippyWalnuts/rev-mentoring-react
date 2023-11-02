@@ -1,0 +1,25 @@
+.Course {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+  .Course button {
+    display: block;
+    border-radius: 25px;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    padding: 20px;
+    margin: 20px auto 0;
+    
+}
+
+@media (max-width: 700px) {
+
+    .Course button {
+        border-radius: 15px;
+        font-size: 11px;
+        padding: 12px;
+        width: 50%;
+    }
+}
