@@ -3,20 +3,23 @@
 }
 
 .Contact button {
-    background-color: var(--secondary-color);
     border-radius: 8px;
-    color: var(--accent-color);
-    font-family: 'Quicksand', sans-serif;
     font-size: 13px;
     font-weight: 650;
     margin: 0 30px;
     padding: 10px;
-    text-transform: uppercase;
-    transition: all ease-in-out 80ms;
-    width: 150px;
+    width: 110px;
 }
 
-.Contact button:hover {
+.Contact button, .Overview button {
+    background-color: var(--secondary-color);
+    color: var(--accent-color);
+    font-family: 'Quicksand', sans-serif;
+    text-transform: uppercase;
+    transition: all ease-in-out 80ms;
+}
+
+.Contact button:hover, .Overview button:hover{
     transform: scale(1.1);
 }
 
