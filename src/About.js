@@ -23,12 +23,12 @@ export default function About() {
         <h4>"…rarely can a <strong>response</strong> make something better. 
                 What makes something better is <strong>connection</strong>" (Dr. Brené Brown)​</h4>
         <p>By <em>reversing</em> the role of Mentor​, 
-        Employees are empowered & supported in mentoring Senior Leaders on their own experiences, perspectives & skills. 
-        These include topics discussed during our group <a href="/#workshops">Workshops</a> & conversations; Reverse Mentoring is driven by participant feedback, 
+        Employees are empowered & supported in mentoring Senior Leaders on their experiences, perspectives & skills. 
+        These include topics discussed during our group <a href="/#workshops">Workshops</a> & general conversations; Reverse Mentoring is driven by participant feedback, 
         tailoring each course uniquely to those involved. ​
 <br />
 <br />
-​Reverse Mentoring provides opportunities to expand our understanding of those without the same privileges, developing inclusive leadership by using the power of <em>connection</em>.​
+​Reverse Mentoring provides opportunities to expand understanding of those without the same privileges, developing inclusive leadership by using the power of <em>connection</em>.​
 ​</p>
         </div> 
 </div>      
