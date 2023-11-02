@@ -1,14 +1,17 @@
-.About {
+.About, .Overview{
     background-color: var(--secondary-color);
+}
+
+.About {
     margin: 100px auto 0;
 }
 
-.About .about-col {
+.About .title-col, .Overview .title-col{
      padding: 0;
     
 }
 
-.About h3 {
+.About h3, .Overview h3 {
     color: var(--primary-color);
     font-family: 'Carlito', sans-serif;
     font-size: 30px;
@@ -17,11 +20,11 @@
     text-transform: uppercase;
 }
 
-.About .about-title {
+.About .section-title, .Overview .section-title {
     font-size: 70px;
 }
 
-.About h4 {
+.About h4, .Overview h4 {
     background-color: var(--accent-color);
     color: var(--secondary-color);
     font-family: 'Quicksand', sans-serif;
@@ -30,30 +33,39 @@
     text-align: center;
 }
 
-.About p {
+.About p, .Overview ul {
     color: var(--primary-color);
     font-family: 'Quicksand', sans-serif;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 600;
-    padding: 10px 70px;
+    padding: 10px 25px;
+  
   }
 
-@media (max-width: 580px) {
-    .About h3 {
+  .Overview ul {
+    list-style: none;
+    text-align: center;
+  }
+
+ 
+
+
+@media (max-width: 700px) {
+    .About h3, .Overview h3 {
         font-size: 18px;
 
     }
 
-    .About .about-title {
+    .About .section-title, .Overview .section-title {
         font-size: 50px;
     }
 
-    .About h4 {
-      font-size: 22px;
+    .About h4, .Overview h4 {
+      font-size: 15px;
     }
 
-    .About p {
+    .About p, .Overview ul {
       font-size: 18px;
-      padding: 10px 30px;
+      
     }
 }

@@ -27,9 +27,9 @@
 }
 
 
-@media (max-width: 580px) {
+@media (max-width: 700px) {
     .Hero {
-        margin: 70px auto 0;
+        margin: 80px auto 0;
         max-width: 450px;
         padding: 10px;
       
