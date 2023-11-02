@@ -1,21 +1,18 @@
-.About, .Course{
+.About {
     background-color: var(--secondary-color);
+    color: var(--primary-color);
 }
 
 .About {
     margin: 100px auto 0;
 }
 
-.About .title-col, .Course .title-col{
+.title-col{
      padding: 0;
     
 }
 
-.About h3 {
-    color: var(--primary-color);
-}
-
-.About h3, .Course h3 {
+h3 {
     font-family: 'Carlito', sans-serif;
     font-size: 30px;
     font-weight: 800;
@@ -23,11 +20,11 @@
     text-transform: uppercase;
 }
 
-.About .section-title, .Course .section-title {
+ .section-title {
     font-size: 70px;
 }
 
-.About h4, .Course h4 {
+ h4 {
     background-color: var(--accent-color);
     color: var(--secondary-color);
     font-family: 'Quicksand', sans-serif;
@@ -36,7 +33,9 @@
     text-align: center;
 }
 
-.About p {
+p {
+    color: var(--primary-color);
+    font-family: 'Quicksand', sans-serif;
     font-size: 22px;
     font-weight: 600;
     padding: 10px 25px;  
@@ -47,26 +46,9 @@
     text-align: right;
 }
 
-.About p {
-    color: var(--primary-color);
-    font-family: 'Quicksand', sans-serif;
-  }
 
-  .Course {
-    background-color: var(--primary-color);
-    color: var(--secondary-color);
-}
 
-  .Course button {
-    display: block;
-    border-radius: 25px;
-    font-size: 18px;
-    font-weight: 700;
-    letter-spacing: 4px;
-    padding: 20px;
-    margin: 20px auto 0;
-    
-}
+
 
 
 
@@ -76,7 +58,7 @@
 
     }
 
-    .About .section-title, .Course .section-title {
+    .section-title {
         font-size: 50px;
     }
 
@@ -84,11 +66,6 @@
       font-size: 15px;
     }
 
-    .Course button {
-        border-radius: 15px;
-        font-size: 11px;
-        padding: 12px;
-        width: 50%;
-    }
+
 
 }
