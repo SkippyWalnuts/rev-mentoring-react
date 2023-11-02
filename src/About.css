@@ -33,21 +33,38 @@
     text-align: center;
 }
 
-.About p, .Overview ul {
+.About p {
+      font-size: 22px;
+    font-weight: 600;
+    padding: 10px 25px;  
+    text-align: left;
+}
+
+.About .p-right {
+    text-align: right;
+}
+
+.About p {
     color: var(--primary-color);
     font-family: 'Quicksand', sans-serif;
-    font-size: 22px;
-    font-weight: 600;
-    padding: 10px 25px;
-  
   }
 
   .Overview ul {
-    list-style: none;
-    text-align: center;
-  }
+    background-color: var(--primary-color);
+}
 
- 
+  .Overview button {
+    display: block;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    margin: 20px auto 0;
+    padding: 20px;
+
+
+}
+
 
 
 @media (max-width: 700px) {
@@ -64,8 +81,13 @@
       font-size: 15px;
     }
 
-    .About p, .Overview ul {
+    .About p,  .Overview button{
       font-size: 18px;
       
     }
+
+    .Overview button {
+        width: 50%;
+    }
+
 }

@@ -9,7 +9,7 @@ export default function About() {
         
         <div className="col title-col">
         <h3>
-            <div className="section-title" id="about">About</div>
+            <div className="section-title">About</div>
             Reverse Mentoring</h3>
          </div>
         <div className="col title-col">
@@ -23,14 +23,14 @@ export default function About() {
         <h4>"…rarely can a <strong>response</strong> make something better. 
                 What makes something better is <strong>connection</strong>" (Dr. Brené Brown)​</h4>
     </div> 
-    <div className="row">
+    <div className="row align-items-center">
         <div className="col">
-    <p>By <em>reversing</em> the role of Mentor​, 
-        Employees are empowered & supported in mentoring Senior Leaders on their experiences, perspectives & skills. 
-        These include topics discussed during our group <a href="/#workshops">Workshops</a> & conversations.​</p></div>
+        <p>​Reverse Mentoring provides opportunities to expand understanding of those without the same privileges, developing inclusive leadership by using the power of <em>connection</em>.​</p>
+</div>
         <div className="col">
-<p>​Reverse Mentoring provides opportunities to expand understanding of those without the same privileges, developing inclusive leadership by using the power of <em>connection</em>.​
-        ​</p></div>
+        <p className="p-right" id="overview">By <em>reversing</em> the role of Mentor​, 
+        Employees are empowered & supported in mentoring Senior Leaders on their unique experiences & alternative perspectives.</p> 
+        </div>
     </div>
 </div>      
 </div>
