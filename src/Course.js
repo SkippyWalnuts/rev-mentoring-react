@@ -1,8 +1,8 @@
 import React from "react";
 
-export default function Overview() {
+export default function Course() {
     return (
-        <div className="Overview">
+        <div className="Course">
         <div className="container-fluid">
             <div className="row align-items-center">
                 <div className="col-4 title-col">

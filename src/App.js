@@ -2,7 +2,7 @@ import React from "react";
 import Hero from "./Hero";
 import Contact from "./Contact";
 import About from "./About";
-import Overview from "./Overview";
+import Course from "./Course";
 import RevNavbar from "./RevNavbar";
 import './App.css';
 
@@ -13,7 +13,7 @@ function App() {
 <Hero />
 <Contact />
 <About />
-<Overview />
+<Course />
 
     </div>
   );

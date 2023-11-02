@@ -11,7 +11,7 @@
     width: 110px;
 }
 
-.Contact button, .Overview button {
+.Contact button, .Course button {
     background-color: var(--secondary-color);
     color: var(--accent-color);
     font-family: 'Quicksand', sans-serif;
@@ -19,7 +19,7 @@
     transition: all ease-in-out 80ms;
 }
 
-.Contact button:hover, .Overview button:hover{
+.Contact button:hover, .Course button:hover{
     transform: scale(1.1);
 }
 

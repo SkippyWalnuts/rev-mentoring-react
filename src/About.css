@@ -1,4 +1,4 @@
-.About, .Overview{
+.About, .Course{
     background-color: var(--secondary-color);
 }
 
@@ -6,7 +6,7 @@
     margin: 100px auto 0;
 }
 
-.About .title-col, .Overview .title-col{
+.About .title-col, .Course .title-col{
      padding: 0;
     
 }
@@ -15,7 +15,7 @@
     color: var(--primary-color);
 }
 
-.About h3, .Overview h3 {
+.About h3, .Course h3 {
     font-family: 'Carlito', sans-serif;
     font-size: 30px;
     font-weight: 800;
@@ -23,11 +23,11 @@
     text-transform: uppercase;
 }
 
-.About .section-title, .Overview .section-title {
+.About .section-title, .Course .section-title {
     font-size: 70px;
 }
 
-.About h4, .Overview h4 {
+.About h4, .Course h4 {
     background-color: var(--accent-color);
     color: var(--secondary-color);
     font-family: 'Quicksand', sans-serif;
@@ -52,12 +52,12 @@
     font-family: 'Quicksand', sans-serif;
   }
 
-  .Overview {
+  .Course {
     background-color: var(--primary-color);
     color: var(--secondary-color);
 }
 
-  .Overview button {
+  .Course button {
     display: block;
     border-radius: 25px;
     font-size: 18px;
@@ -71,20 +71,20 @@
 
 
 @media (max-width: 700px) {
-    .About h3, .Overview h3, .About p {
+    .About h3, .Course h3, .About p {
         font-size: 18px;
 
     }
 
-    .About .section-title, .Overview .section-title {
+    .About .section-title, .Course .section-title {
         font-size: 50px;
     }
 
-    .About h4, .Overview h4 {
+    .About h4, .Course h4 {
       font-size: 15px;
     }
 
-    .Overview button {
+    .Course button {
         border-radius: 15px;
         font-size: 11px;
         padding: 12px;
