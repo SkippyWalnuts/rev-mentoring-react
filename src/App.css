@@ -8,3 +8,56 @@ body {
     background: #1c274a;
     min-width: 300px;
 }
+
+.title-col{
+    padding: 0;
+   
+}
+
+h3 {
+   font-family: 'Carlito', sans-serif;
+   font-size: 30px;
+   font-weight: 800;
+   text-align: center;
+   text-transform: uppercase;
+}
+
+.section-title {
+   font-size: 70px;
+}
+
+h4 {
+   background-color: var(--accent-color);
+   color: var(--secondary-color);
+   font-family: 'Quicksand', sans-serif;
+   font-size: 20px;
+   padding: 12px;
+   text-align: center;
+}
+
+p {
+   color: var(--primary-color);
+   font-family: 'Quicksand', sans-serif;
+   font-size: 22px;
+   font-weight: 600;
+   padding: 10px 25px;  
+   text-align: left;
+}
+
+@media (max-width: 700px) {
+    h3 {
+        font-size: 18px;
+
+    }
+
+    .section-title {
+        font-size: 50px;
+    }
+
+    h4 {
+      font-size: 15px;
+    }
+
+
+
+}

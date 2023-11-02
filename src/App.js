@@ -3,6 +3,7 @@ import Hero from "./Hero";
 import Contact from "./Contact";
 import About from "./About";
 import Course from "./Course";
+import CourseSection from "./CourseSection";
 import RevNavbar from "./RevNavbar";
 import './App.css';
 
@@ -14,6 +15,8 @@ function App() {
 <Contact />
 <About />
 <Course />
+<CourseSection />
+
 
     </div>
   );

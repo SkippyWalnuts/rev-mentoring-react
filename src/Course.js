@@ -17,13 +17,13 @@ export default function Course() {
 
                  </div>
             </div>
-            <div className="row row-border">
+            <div className="row">
         <h4> "Diversity is the mix. Inclusion is <strong>making the mix work</strong>" ​ 
             <a href="https://inclusion-paradox.com/site/about-andres-tapia/"
             target="_blank"
             rel="noreferrer"
             alt="Andrés Tapia Inclusion Paradox">Andrés Tapia</a>​</h4>
-    </div> 
+            </div> 
             <div className="row">
             <ul>
                     <li><button>MENTOR ADVISORS</button></li>

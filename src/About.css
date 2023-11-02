@@ -1,71 +1,16 @@
 .About {
     background-color: var(--secondary-color);
     color: var(--primary-color);
-}
-
-.About {
     margin: 100px auto 0;
-}
-
-.title-col{
-     padding: 0;
-    
-}
-
-h3 {
-    font-family: 'Carlito', sans-serif;
-    font-size: 30px;
-    font-weight: 800;
-    text-align: center;
-    text-transform: uppercase;
-}
-
- .section-title {
-    font-size: 70px;
-}
-
- h4 {
-    background-color: var(--accent-color);
-    color: var(--secondary-color);
-    font-family: 'Quicksand', sans-serif;
-    font-size: 20px;
-    padding: 12px;
-    text-align: center;
-}
-
-p {
-    color: var(--primary-color);
-    font-family: 'Quicksand', sans-serif;
-    font-size: 22px;
-    font-weight: 600;
-    padding: 10px 25px;  
-    text-align: left;
 }
 
 .About .p-right {
     text-align: right;
 }
 
-
-
-
-
-
-
 @media (max-width: 700px) {
-    .About h3, .Course h3, .About p {
+ .About p {
         font-size: 18px;
 
-    }
-
-    .section-title {
-        font-size: 50px;
-    }
-
-    .About h4, .Course h4 {
-      font-size: 15px;
-    }
-
-
-
+ }
 }

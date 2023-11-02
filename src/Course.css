@@ -14,6 +14,21 @@
     
 }
 
+.Course ul {
+    list-style: none;
+}
+
+.CourseSection  {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+margin: 0 50px;
+}
+
+.CourseSection p {
+    padding: 10px 40px;
+}
+
+
 @media (max-width: 700px) {
 
     .Course button {
