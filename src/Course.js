@@ -24,17 +24,24 @@ export default function Course() {
             rel="noreferrer"
             alt="Andrés Tapia Inclusion Paradox">Andrés Tapia</a>​</h4>
             </div> 
-            <div className="row">
+            <div className="row mt-4 mb-3">
+            <div className="col">
             <ul>
-                    <li><button>MENTOR ADVISORS</button></li>
-                    <li><button>APPLICATIONS</button></li>
-                    <li><button>MATCH-MAKING​</button></li>
-                    <li><button>MENTOR & MENTEE BRIEFINGS</button></li>
-                    <li><button>INTRODUCING A MATCH​</button></li>
-                    <li><button>MONTHLY MENTOR CONVERSATIONS​</button></li>
-                    <li><button>WORKSHOPS​</button></li>
-                    <li><button>TAKING ACCOUNTABILITY​</button></li>
-                ​</ul>
+                    <li><button>Mentor Advisors</button></li>
+                    <li><button>Applications</button></li>
+                    <li><button>Match-Making​</button></li>
+                    <li><button>Briefings</button></li>
+
+            </ul>
+            </div>
+            <div className="col">
+            <ul>
+                    <li><button>Introductions​</button></li>
+                    <li><button>Conversations​</button></li>
+                    <li><button>Workshops</button></li>
+                    <li><button>Accountability​</button></li>
+            ​</ul>
+            </div>
             </div>
         </div>      
         </div>
