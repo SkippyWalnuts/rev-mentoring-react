@@ -1,5 +1,5 @@
 .Contact {
-    margin: 50px auto 200px;
+    margin: 50px auto 230px;
 }
 
 .Contact button {
@@ -8,7 +8,7 @@
     font-weight: 650;
     margin: 0 30px;
     padding: 10px;
-    width: 110px;
+    width: 100px;
 }
 
 .Contact button, .Course button {
@@ -31,6 +31,6 @@
     .Contact button {
         font-size: 11px;
         padding: 8px;
-        width: 100px;
+        width: 80px;
     }
 }
