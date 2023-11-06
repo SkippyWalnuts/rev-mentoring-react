@@ -25,7 +25,7 @@ export default function Course() {
             alt="Andrés Tapia Inclusion Paradox">Andrés Tapia</a>​</h4>
             </div> 
             <div className="row course-buttons">
-            <div className="col">
+            <div className="col-md">
             <a href="#advisors"><button>Advisors</button></a>
                 <button>Applications</button>
                 <button>Matches​</button>

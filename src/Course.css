@@ -25,7 +25,7 @@
     background-color: var(--secondary-color);
     color: var(--primary-color);
     margin: 0 auto;
-    max-width: 700px;
+    max-width: 800px;
 }
 
 .CourseSection p {
@@ -36,7 +36,6 @@
 @media (max-width: 700px) {
     .course-buttons {
         margin: 20px auto;
-        padding: 0;
     }
 
     .Course button {
@@ -45,5 +44,9 @@
 
     .CourseSection {
         margin: 0 50px;
+    }
+
+    .CourseSection p {
+        font-size: 15px;
     }
 }
