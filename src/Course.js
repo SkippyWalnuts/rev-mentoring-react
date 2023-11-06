@@ -26,7 +26,7 @@ export default function Course() {
             </div> 
             <div className="row course-buttons">
             <div className="col">
-                <button><a href="#advisors">Advisors</a></button>
+            <a href="#advisors"><button>Advisors</button></a>
                 <button>Applications</button>
                 <button>Matches​</button>
                 <button>Briefings</button>
