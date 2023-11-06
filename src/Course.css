@@ -36,7 +36,7 @@
 @media (max-width: 700px) {
     .course-buttons {
         margin: 20px auto;
-        padding: 0 30px;
+        padding: 0;
     }
 
     .Course button {
