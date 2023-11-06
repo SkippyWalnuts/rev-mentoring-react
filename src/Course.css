@@ -3,28 +3,29 @@
     color: var(--secondary-color);
 }
 
+.course-buttons {
+    margin: 30px auto;
+    max-width: 950px;
+    padding: 0 70px;
+
+}
+
   .Course button {
     display: block;
     border-radius: 15px;
     font-size: 15px;
     font-weight: 700;
     letter-spacing: 4px;
+    margin-bottom: 15px;
     padding: 12px;
-    margin: 15px auto;
-    min-width: 70%;
-   
-}
-
-.Course ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+    width: 100%;
 }
 
 .CourseSection  {
     background-color: var(--secondary-color);
     color: var(--primary-color);
-    margin: 0 50px;
+    margin: 0 auto;
+    max-width: 700px;
 }
 
 .CourseSection p {
@@ -33,9 +34,16 @@
 
 
 @media (max-width: 700px) {
+    .course-buttons {
+        margin: 20px auto;
+        padding: 0 30px;
+    }
 
     .Course button {
         font-size: 11px;
-        min-width: 90%;
+    }
+
+    .CourseSection {
+        margin: 0 50px;
     }
 }
