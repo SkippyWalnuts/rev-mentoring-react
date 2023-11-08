@@ -26,16 +26,12 @@ export default function Course() {
             </div> 
             <div className="row course-buttons">
             <div className="col-md">
-            <a href="#advisors"><button>Advisors</button></a>
-                <button>Applications</button>
-                <button>Matches​</button>
-                <button>Briefings</button>
+                <button>Mentors​</button>
+                <button>Mentees​</button>
             </div>
             <div className="col">
-                <button>Introductions​</button>
-                <button>Conversations​</button>
+            <a href="#advisors"><button>Advisors</button></a>
                 <button>Workshops</button>
-                <button>Accountability​</button>
             </div>
             </div>
         </div>      

@@ -22,6 +22,7 @@ export default function Hero() {
         <h2>
             Supporting the development of inclusive leadership
         </h2>
+        
         </div>
     </div>
 </div>
