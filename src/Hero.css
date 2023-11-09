@@ -26,6 +26,15 @@
     font-family: 'Carlito', sans-serif;
 }
 
+.Hero .streamly-video {
+    aspect-ratio: 16/9;
+    border-radius: 5px;
+    display: block;
+    margin: 10px auto;
+    padding: 0;    
+    
+}
+
 
 @media (max-width: 700px) {
     .Hero {
@@ -41,4 +50,6 @@
     .Hero  h2 {
         font-size: 17px;
     }
+
+
 }
