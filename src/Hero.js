@@ -22,8 +22,7 @@ export default function Hero() {
         <h2>
             Supporting the development of inclusive leadership
         </h2>
-        <iframe src="https://streamly.video/embed/video/why-reverse-mentoring-is-good-for-you-your-employees-and-your-business" allowFullScreen={true} title="Becca Early explains Reverse Mentoring"
-        className="streamly-video"> </iframe>
+
         </div>
     </div>
 </div>

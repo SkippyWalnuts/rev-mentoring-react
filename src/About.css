@@ -8,6 +8,16 @@
     text-align: right;
 }
 
+.About .streamly-video {
+    aspect-ratio: 16/9;
+    border-radius: 5px;
+    display: block;
+    margin: 10px auto;
+    max-width: 800px;
+    padding: 0;    
+    
+}
+
 @media (max-width: 700px) {
     .About {
     margin: 300px auto 0;

@@ -36,6 +36,10 @@ export default function About() {
         Employees are empowered & supported in mentoring Senior Leaders on their unique experiences & alternative perspectives.</p> 
         </div>
     </div>
+    <div className="row mx-5">
+    <iframe src="https://streamly.video/embed/video/why-reverse-mentoring-is-good-for-you-your-employees-and-your-business" allowFullScreen={true} title="Becca Early explains Reverse Mentoring"
+        className="streamly-video"> </iframe>
+        </div>
 </div>      
 </div>
        
