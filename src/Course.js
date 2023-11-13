@@ -30,8 +30,8 @@ export default function Course() {
                 <button>Mentees​</button>
             </div>
             <div className="col">
-            <a href="#advisors"><button>Advisors</button></a>
-                <button>Workshops</button>
+            <button>Advisors</button>
+            <button>Workshops</button>
             </div>
             </div>
         </div>      
