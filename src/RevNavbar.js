@@ -16,6 +16,7 @@ export default function RevNavbar() {
             <Nav.Link href="/#home" className="nav-link">Home</Nav.Link>
             <Nav.Link href="/#about" className="nav-link">About</Nav.Link>
             <Nav.Link href="/#course" className="nav-link">Course</Nav.Link>
+            <Nav.Link href="/#Reviews" className="nav-link">Reviews</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
