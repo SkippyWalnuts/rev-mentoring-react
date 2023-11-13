@@ -4,6 +4,7 @@ import Contact from "./Contact";
 import About from "./About";
 import Course from "./Course";
 import CourseSection from "./CourseSection";
+import Testimonials from "./Testimonials";
 import RevNavbar from "./RevNavbar";
 import './App.css';
 
@@ -16,7 +17,7 @@ function App() {
 <About />
 <Course />
 <CourseSection />
-
+<Testimonials />
 
     </div>
   );
