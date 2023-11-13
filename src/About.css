@@ -10,6 +10,7 @@
 
 .About .streamly-video {
     aspect-ratio: 16/9;
+    border: dotted 10px var(--accent-color);
     border-radius: 5px;
     display: block;
     margin: 10px auto;
