@@ -22,9 +22,37 @@ export default function Hero() {
         <h2>
             Supporting the development of inclusive leadership
         </h2>
-
         </div>
-    </div>
-</div>
+        <div className="row">
+        <div className="col">
+        <ul>
+            <li>
+                Mentors ⭐4.8 / 5⭐
+            </li>
+            <li> Mentees ⭐4.8 / 5⭐</li>
+
+        </ul>
+        </div>
+        <div className="col">
+        <ul>
+            <li>Mentors ⭐4.7 / 5⭐</li>
+            <li>Mentees ⭐5 / 5⭐</li>
+        </ul>
+        </div>
+        </div>
+        <div className="row">
+        <div className="col">
+        <h3>
+            How helpful Reverse Mentoring has been at their company
+        </h3>
+        </div>
+        <div className="col">
+        <h3>
+         Recommend Reverse Mentoring to a colleague
+        </h3>
+        </div>
+        </div>
+         </div>
+  </div>
     );
 }
