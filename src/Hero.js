@@ -53,7 +53,7 @@ export default function Hero() {
         </div>
         </div>
         <div className="col">
-        <button>Contact</button></div>
+        <button><a href="mailto:becca.early@outlook.com">Contact</a></button></div>
          </div>
   </div>
     );
