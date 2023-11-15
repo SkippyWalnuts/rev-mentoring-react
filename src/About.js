@@ -25,7 +25,8 @@ export default function About() {
            <a href="https://brenebrown.com/"
             target="_blank"
             rel="noreferrer"
-            alt="Brené Brown's Website">Brené Brown</a></h4>
+            alt="Brené Brown's Website"
+            className="quote-link">Brené Brown</a></h4>
     </div> 
     <div className="row align-items-center">
         <div className="col">

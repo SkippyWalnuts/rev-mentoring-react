@@ -28,7 +28,8 @@ export default function Course() {
             <a href="https://inclusion-paradox.com/site/about-andres-tapia/"
             target="_blank"
             rel="noreferrer"
-            alt="Andrés Tapia Inclusion Paradox">Andrés Tapia</a>​</h4>
+            alt="Andrés Tapia Inclusion Paradox"
+            className="quote-link">Andrés Tapia</a>​</h4>
             </div> 
             <div className="row course-buttons">
             <div className="col-md">

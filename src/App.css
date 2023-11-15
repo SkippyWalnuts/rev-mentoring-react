@@ -58,25 +58,28 @@ button {
     font-size: 15px;
     font-weight: 700;
     letter-spacing: 4px;
-    margin-bottom: 15px;
     padding: 12px;
     text-transform: uppercase;
-    transition: all ease-in-out 80ms;
-    width: 100%;
+    transition: all ease-in 60ms;
+
 }
 
 button:hover{
+    box-shadow: 1px 1px 10px var(--accent-color);
     transform: scale(1.1);
 }
 
 a {
-    color: var(--secondary-color);
     text-decoration: none;
     transition: all ease-in-out 12ms;
 }
 
-a:hover {
-    text-decoration: underline;
+.quote-link {
+    color: var(--secondary-color)
+}
+
+.quote-link:hover {
+    color: var(--primary-color)
 }
 
 @media (max-width: 700px) {
