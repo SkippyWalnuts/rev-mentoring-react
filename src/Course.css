@@ -4,10 +4,15 @@
 }
 
 .course-buttons {
-    margin: 30px auto;
+    margin: 15px auto;
     max-width: 950px;
     padding: 0 70px;
 
+}
+
+.Course button {
+    margin-bottom: 15px;
+    width: 100%;
 }
 
 
