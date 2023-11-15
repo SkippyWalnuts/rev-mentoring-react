@@ -36,15 +36,10 @@
 }
 
 .RevNavbar button {
-    border: dashed 2px;
-    border-color: var(--primary-color);
-    font-size: 20px;
-    transition: all ease-in-out 80ms;
+    border: solid 1px rgb(28, 39, 74, 0.6);
+  transition: all ease-in 80ms;
 }
 
-.RevNavbar button:hover {
-    transform: scale(1.1);
-}
 
 
 
