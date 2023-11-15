@@ -51,6 +51,10 @@
     max-width: 25%;
 }
 
+.Hero a{
+    color: var(--accent-color);
+}
+
 
 @media (max-width: 700px) {
     .Hero {
