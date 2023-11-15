@@ -10,16 +10,7 @@
 
 }
 
-  .Course button {
-    display: block;
-    border-radius: 15px;
-    font-size: 15px;
-    font-weight: 700;
-    letter-spacing: 4px;
-    margin-bottom: 15px;
-    padding: 12px;
-    width: 100%;
-}
+
 
 .CourseSection  {
     background-color: var(--secondary-color);
@@ -36,10 +27,6 @@
 @media (max-width: 700px) {
     .course-buttons {
         margin: 20px auto;
-    }
-
-    .Course button {
-        font-size: 11px;
     }
 
     .CourseSection {

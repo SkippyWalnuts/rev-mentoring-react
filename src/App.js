@@ -1,6 +1,5 @@
 import React from "react";
 import Hero from "./Hero";
-import Contact from "./Contact";
 import About from "./About";
 import Course from "./Course";
 
@@ -13,7 +12,6 @@ function App() {
     <div className="App" id="home">
 <RevNavbar />
 <Hero />
-<Contact />
 <About />
 <Course />
 <Reviews />

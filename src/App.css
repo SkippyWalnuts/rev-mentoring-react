@@ -49,6 +49,26 @@ p {
    text-align: left;
 }
 
+button {
+    background-color: var(--secondary-color);
+    border-radius: 15px;
+    color: var(--accent-color);
+    display: block;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    margin-bottom: 15px;
+    padding: 12px;
+    text-transform: uppercase;
+    transition: all ease-in-out 80ms;
+    width: 100%;
+}
+
+button:hover{
+    transform: scale(1.1);
+}
+
 a {
     color: var(--secondary-color);
     text-decoration: none;
@@ -72,7 +92,10 @@ a:hover {
     h4 {
       font-size: 15px;
     }
-
+    
+    button {
+        font-size: 11px;
+    }
 
 
 }
