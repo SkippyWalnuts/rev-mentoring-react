@@ -10,7 +10,7 @@ export default function Course() {
 
     return (
         <div className="Course">
-        <div className="container-fluid">
+          <div className="container-fluid">
             <div className="row align-items-center">
                 <div className="col-4 title-col">
                 <img src="../images/personal_opinion_undraw.png" className="img-fluid" 
@@ -36,7 +36,7 @@ export default function Course() {
                 <button>Mentees​</button>
             </div>
             <div className="col">
-            <button onclick={handleClick}>Advisors</button>
+            <button onClick={handleClick}>Advisors</button>
             <button>Workshops</button>
             </div>
             </div>
