@@ -1,5 +1,5 @@
 .Hero {
-    margin: 90px auto 0;
+    margin: 70px auto 0;
     max-width: 650px;
    }
 
@@ -27,12 +27,14 @@
 .Hero h3 {
     color: var(--accent-color);
     font-size: 18px;
+    font-weight: 500;
     }
 
 .Hero ul {
     color: var(--secondary-color);
     font-family: 'Quicksand', sans-serif;
     font-size: 18px;
+    font-weight: 800;
     list-style: none;
     padding: 0;
 }
@@ -42,6 +44,11 @@
     text-align: center;
     margin: 0 auto;
     padding: 0;
+}
+
+.Hero button {
+    margin: 20px auto;
+    max-width: 25%;
 }
 
 

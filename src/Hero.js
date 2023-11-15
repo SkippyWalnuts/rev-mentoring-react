@@ -48,10 +48,12 @@ export default function Hero() {
         </div>
         <div className="col">
         <h3>
-         Recommend Reverse Mentoring to a colleague
+         Would recommend Reverse Mentoring to a colleague
         </h3>
         </div>
         </div>
+        <div className="col">
+        <button>Contact</button></div>
          </div>
   </div>
     );
