@@ -13,10 +13,11 @@ export default function RevNavbar() {
         <Navbar.Toggle aria-controls="basic-navbar-nav"/>
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="/#home" className="nav-link">Home</Nav.Link>
-            <Nav.Link href="/#about" className="nav-link">About</Nav.Link>
-            <Nav.Link href="/#course" className="nav-link">Course</Nav.Link>
-            <Nav.Link href="/#Reviews" className="nav-link">Reviews</Nav.Link>
+            <Nav.Link href="/#home" title="Homepage" className="nav-link">Home</Nav.Link>
+            <Nav.Link href="/#about" title="About Reverse Mentoring" className="nav-link">About</Nav.Link>
+            <Nav.Link href="/#course" title="Reverse Mentoring Course Overview" className="nav-link">Course</Nav.Link>
+            <Nav.Link href="/#Reviews" title="Reviews of Reverse Mentoring" className="nav-link">Reviews</Nav.Link>
+            <Nav.Link href="mailto:becca.early@outlook.com?subject=Reverse Mentoring Query" title="Email Becca Early with Reverse Mentoring queries" className="nav-link">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
