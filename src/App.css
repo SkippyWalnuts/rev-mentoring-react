@@ -53,7 +53,6 @@ button {
     background-color: var(--secondary-color);
     border-radius: 15px;
     color: var(--accent-color);
-    display: block;
     font-family: 'Quicksand', sans-serif;
     font-size: 15px;
     font-weight: 700;
@@ -71,7 +70,7 @@ button:hover{
 
 a {
     text-decoration: none;
-    transition: all ease-in-out 12ms;
+    transition: all ease-in 12ms;
 }
 
 .quote-link {
