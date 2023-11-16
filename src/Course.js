@@ -3,11 +3,6 @@ import CourseSection from "./CourseSection";
 import "./Course.css";
 
 export default function Course() {
-
-    function handleClick(event){
-        event.preventDefault();
-    }
-
     return (
         <div className="Course">
           <div className="container-fluid">
@@ -31,18 +26,8 @@ export default function Course() {
             alt="Andrés Tapia Inclusion Paradox"
             className="quote-link">Andrés Tapia</a>​</h4>
             </div> 
-            <div className="row course-buttons">
-            <div className="col-md">
-                <button>Mentors​</button>
-                <button>Mentees​</button>
-            </div>
-            <div className="col">
-            <button onClick={handleClick}>Advisors</button>
-            <button>Workshops</button>
-            </div>
-            </div>
         </div>
-        <CourseSection title="Advisors" />      
+        <CourseSection />      
         </div>
     )
 }
