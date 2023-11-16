@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import CourseSection from "./CourseSection";
 import "./Course.css";
 
