@@ -2,19 +2,9 @@ import React from "react";
 import "./CourseSection.css";
 
 export default function CourseSection() {
-    return (
+return (
         <div className="CourseSection">
 <div className=" container-fluid">
-<div className="row course-buttons">
-            <div className="col-md">
-                <button title="Mentors">Mentors​</button>
-                <button title="Mentees">Mentees​</button>
-            </div>
-            <div className="col">
-            <button title="Advisors">Advisors</button>
-            <button title="Workshops">Workshops</button>
-            </div>
-            </div>
 <div className="row align-items-center course-section-title">
         
         <div className="col title-col">

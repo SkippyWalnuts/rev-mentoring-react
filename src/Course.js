@@ -27,7 +27,17 @@ export default function Course() {
             className="quote-link">Andrés Tapia</a>​</h4>
             </div> 
         </div>
-        <CourseSection />      
+        <div className="row course-buttons">
+            <div className="col-md">
+                <button value="Mentors" title="Mentors">Mentors​</button>
+                <button title="Mentees">Mentees​</button>
+            </div>
+            <div className="col">
+            <button title="Advisors">Advisors</button>
+            <button title="Workshops">Workshops</button>
+            </div>
+            </div>
+        <CourseSection defaultTitle="Mentors" />      
         </div>
     )
 }

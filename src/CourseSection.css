@@ -4,16 +4,6 @@
     color: var(--primary-color);
 }
 
-.course-buttons {
-    margin: 15px auto;
-    max-width: 950px;
-    padding: 0 70px;
-}
-
-.Course button {
-    margin-bottom: 15px;
-    width: 100%;
-}
 
 .CourseSection p  {
     margin: 0 auto;
@@ -23,9 +13,6 @@
 
 
 @media (max-width: 700px) {
-    .course-buttons {
-        margin: 20px auto;
-    }
 
     .CourseSection {
         margin: 0 20px;
