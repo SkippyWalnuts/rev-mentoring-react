@@ -1,7 +1,10 @@
 import React from "react";
+import CourseDetails from "./CourseDetails";
 import "./CourseSection.css";
 
+
 export default function CourseSection(props) {
+
 return (
         <div className="CourseSection">
 <div className=" container-fluid">
@@ -16,16 +19,8 @@ return (
         </div>
     </div>
     <div className="row">
-      <p>Advisors agree on timeline for overall programme, 
-        resulting in agreed application closure and match-making date(s). 
-        Update presentations with schedule and aim at town halls, team meetings, 
-        Talent Champions, HR Huddles etc. – encourage word of mouth with Mentor
-         & Mentee recommendations, ask for invites to relevant meetings. Share 
-         advert with attendees of meetings following presentation, including 
-         application links 
-        </p>
-    </div> 
-    
+<CourseDetails contents={props.title}/>
+    </div>
 </div>
         </div>
     )
