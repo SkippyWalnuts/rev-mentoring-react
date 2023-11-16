@@ -1,8 +1,23 @@
-import React from "react";
+import React, { useState } from "react";
 import CourseSection from "./CourseSection";
 import "./Course.css";
 
-export default function Course() {
+export default function Course(props) {
+let [section, sectionSelect] = useState(props.defaultSection);
+let [loaded, setLoaded] = useState(true);
+
+
+function handleClick(event) {
+    event.preventDefault();
+    sectionSelect(event.target.value);
+}
+
+function load() {
+setLoaded(true);
+handleClick();
+}
+
+if (loaded) {
     return (
         <div className="Course">
           <div className="container-fluid">
@@ -27,17 +42,23 @@ export default function Course() {
             className="quote-link">Andrés Tapia</a>​</h4>
             </div> 
         </div>
+        
         <div className="row course-buttons">
             <div className="col-md">
-                <button value="Mentors" title="Mentors">Mentors​</button>
-                <button title="Mentees">Mentees​</button>
+                <button value="Mentors" title="Mentors" onClick={handleClick}>Mentors​</button>
+                <button value ="Mentees" title="Mentees" onClick={handleClick}>Mentees​</button>
             </div>
             <div className="col">
-            <button title="Advisors">Advisors</button>
-            <button title="Workshops">Workshops</button>
+            <button value ="Advisors" title="Advisors" onClick={handleClick}>Advisors</button>
+            <button value ="Workshops" title="Workshops" onClick={handleClick}>Workshops</button>
             </div>
             </div>
-        <CourseSection defaultTitle="Mentors" />      
+        <CourseSection title={section}/>      
         </div>
-    )
+    );
+}
+    else {
+        load();
+        return "Loading";
+        }
 }

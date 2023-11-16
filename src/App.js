@@ -13,7 +13,7 @@ function App() {
 <RevNavbar />
 <Hero />
 <About />
-<Course />
+<Course defaultSection="Mentors" />
 <Reviews />
 
     </div>

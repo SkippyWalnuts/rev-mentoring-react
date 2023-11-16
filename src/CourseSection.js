@@ -1,14 +1,14 @@
 import React from "react";
 import "./CourseSection.css";
 
-export default function CourseSection() {
+export default function CourseSection(props) {
 return (
         <div className="CourseSection">
 <div className=" container-fluid">
 <div className="row align-items-center course-section-title">
         
         <div className="col title-col">
-        <h3>Advisors</h3>
+        <h3>{props.title}</h3>
          </div>
         <div className="col-4 title-col">
         <img src="../images/mentor_advisors_undraw.png" className="img-fluid" 
