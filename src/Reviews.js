@@ -10,13 +10,11 @@ export default function Reviews() {
             <div className="col title-col">
         <h3>
             <div className="section-title">Reviews</div>
-            How Success is Measured</h3>
+            Measuring Success</h3>
          </div>
         <div className="col title-col">
-       <a href="https://www.marieclaire.fr/le-reverse-mentoring-ou-le-phenomene-du-mentorat-inverse,1250730.asp" target="_blank" rel="noreferrer"
-       title="(Fr) Reverse mentoring or the Phenomenon of Reverse Mentoring by Julia Kadri">
         <img src="../images/reverse-mentoring-ladder.png" className="img-fluid" 
-        alt="person pointing up a ladder against a wall of locks, as another person looks up holding a key"></img></a>
+        alt="person pointing up a ladder against a wall of locks, as another person looks up holding a key"></img>
         </div>
     </div>
     <div className="row">
