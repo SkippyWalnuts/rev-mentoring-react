@@ -53,7 +53,8 @@ if (loaded) {
             <button value ="Workshops" title="Workshops" onClick={handleClick}>Workshops</button>
             </div>
             </div>
-        <CourseSection title={section}/>      
+        <CourseSection title={section} />      
+        <span id="Reviews"></span>
         </div>
     );
 }
