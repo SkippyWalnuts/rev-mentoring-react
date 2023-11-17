@@ -33,7 +33,7 @@ export default function About() {
         <p>​Reverse Mentoring provides opportunities to expand understanding of those without the same privileges, developing inclusive leadership by using the power of <em>connection</em>.​</p>
 </div>
         <div className="col">
-        <p className="p-right" id="course">By <em>reversing</em> the role of Mentor​, 
+        <p className="p-right">By <em>reversing</em> the role of Mentor​, 
         Employees are empowered & supported in mentoring Senior Leaders on their unique experiences & alternative perspectives.</p> 
         </div>
     </div>
@@ -45,7 +45,8 @@ export default function About() {
     title="Becca Early explains why reverse mentoring is good for you, your employees and your business"
     className="streamly-video"> </iframe>
         </div>
-</div>      
+</div>   
+<span id="course"></span>   
 </div>
        
        );
