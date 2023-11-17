@@ -1,7 +1,11 @@
 .Hero {
-    margin: 70px auto 0;
+    margin: 0 auto 200px;
     max-width: 650px;
    }
+
+.Hero .hero-container {
+    margin-top: 140px;
+}
 
 .Hero h1 {
     margin: 0 auto;
@@ -63,7 +67,6 @@
 
 @media (max-width: 700px) {
     .Hero {
-        margin: 120px auto 0;
         max-width: 450px;
         padding: 10px;
       

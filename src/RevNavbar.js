@@ -7,7 +7,7 @@ import "./RevNavbar.css";
 export default function RevNavbar() {
   return (
     <div className="RevNavbar">
-    <Navbar collapseOnSelect expand="sm">
+    <Navbar collapseOnSelect expand="md" fixed="top">
       <Container className="nav-container">
         <Navbar.Brand className="nav-brand" href="/#home">Reverse Mentoring</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav"/>

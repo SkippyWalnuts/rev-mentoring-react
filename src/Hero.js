@@ -4,7 +4,8 @@ import "./Hero.css";
 export default function Hero() {
     return (
 <div className="Hero">
-    <div className="container-fluid">
+    <span id="home"></span>
+    <div className="container-fluid hero-container">
         <div className="row align-items-center mb-2">
         <div className="col">
         <img src="./images/teacher_undraw.svg" className="img-fluid teacher-img" alt="teaching at a laptop"></img>
@@ -59,6 +60,7 @@ export default function Hero() {
         </div>
 
          </div>
+         <span id="about"></span>
   </div>
     );
 }

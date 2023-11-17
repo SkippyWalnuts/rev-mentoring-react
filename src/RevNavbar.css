@@ -1,12 +1,8 @@
-.RevNavbar {
+.RevNavbar .navbar {
     background-color: var(--secondary-color);
+    border-bottom: solid 5px var(--accent-color);
     font-family: 'Carlito', sans-serif;
    
-}
-
-.RevNavbar .nav-container {
-    margin: 0 5px;
-    padding: 0 10px;
 }
 
 .RevNavbar .nav-brand {
@@ -17,14 +13,14 @@
 .RevNavbar .nav-brand, .nav-link {
     color: var(--primary-color);
     font-size: 14px;
-    font-weight: 700;
+    font-weight: 800;
     letter-spacing: 4px;
-    transition: all ease-in-out 80ms;
+    transition: all ease-in 80ms;
 }
 
 .RevNavbar .nav-link {
     margin: 0 10px;
-    transition: all ease-in-out 80ms;
+    transition: all ease-in 80ms;
 }
 
 .RevNavbar .nav-link.active, .nav-link:hover, .nav-brand:hover {
@@ -39,7 +35,3 @@
     border: solid 1px rgb(28, 39, 74, 0.6);
   transition: all ease-in 80ms;
 }
-
-
-
-
