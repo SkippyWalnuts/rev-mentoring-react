@@ -11,7 +11,7 @@ const contentsMapping = {
       & Mentee recommendations, ask for invites to relevant meetings. Share 
       advert with attendees of meetings following presentation, including 
       application links</p>,
-      "Workshops": <p>Empathy, Privilege, Setting Boundaries, Taking Accountability</p>
+      "Workshops": <p>Conversation Starters, Empathy, Privilege, Setting Boundaries, Taking Accountability</p>
 
 };
 
