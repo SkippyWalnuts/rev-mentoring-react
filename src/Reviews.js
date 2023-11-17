@@ -3,8 +3,32 @@ import "./Reviews.css";
 
 export default function Reviews() {
     return (
-        <div className="Reviews" id="Reviews">
-<p>“I thoroughly enjoyed being part of the reverse mentoring scheme at Dentsu. ​
+        <div className="Reviews">
+  
+            <div className="container-fluid">
+                <div className="row align-items-center">
+            <div className="col title-col">
+        <h3>
+            <div className="section-title">Reviews</div>
+            How Success is Measured</h3>
+         </div>
+        <div className="col title-col">
+       <a href="https://www.marieclaire.fr/le-reverse-mentoring-ou-le-phenomene-du-mentorat-inverse,1250730.asp" target="_blank" rel="noreferrer"
+       title="(Fr) Reverse mentoring or the Phenomenon of Reverse Mentoring by Julia Kadri">
+        <img src="../images/reverse-mentoring-ladder.png" className="img-fluid" 
+        alt="person pointing up a ladder against a wall of locks, as another person looks up holding a key"></img></a>
+        </div>
+    </div>
+    <div className="row">
+        <h4>"…rarely can a <strong>response</strong> make something better. 
+                What makes something better is <strong>connection</strong>"{" "}
+           <a href="https://brenebrown.com/"
+            target="_blank"
+            rel="noreferrer"
+            alt="Brené Brown's Website"
+            className="quote-link">Brené Brown</a></h4>
+    </div> 
+    <p>“I thoroughly enjoyed being part of the reverse mentoring scheme at Dentsu. ​
 
 Initially when it was introduced and I learned about the objectives of the scheme, I was slightly sceptical as to whether it would be effective and what exactly I would gain from it as a mentor. ​
 
@@ -58,6 +82,8 @@ The one build I’d suggest is in the launch session, to run through a couple of
 <strong>Mentee</strong>
 
 ​</p>
-        </div>
+    </div>
+</div>
+
     );
 }
