@@ -1,17 +1,14 @@
 
 .CourseSection {
-    background-color: var(--secondary-color);
-    border-radius: 2px;
-    color: var(--primary-color);
+    background-color: var(--primary-color);
+    border: dotted 8px var(--accent-color);
+    color: var(--accent-color);
     margin: 0 auto;
-    max-width: 70%;
-}
-
-.CourseSection img {
-    border-radius: 0 2px 0 0;
+    max-width: 785px;
 }
 
 .CourseSection p {
+    color: var(--accent-color);
     font-size: 18px;
     padding: 10px 40px;
 }
