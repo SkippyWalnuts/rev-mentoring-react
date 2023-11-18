@@ -30,11 +30,11 @@ export default function About() {
     </div> 
     <div className="row align-items-center">
         <div className="col">
-        <p>​Reverse Mentoring provides opportunities to expand understanding of those without the same privileges, developing inclusive leadership by using the power of <em>connection</em>.​</p>
+        <p>​Reverse Mentoring is your opportunity to build inclusive leadership by using the power of <em>connection</em>.​</p>
 </div>
         <div className="col">
         <p className="p-right">By <em>reversing</em> the role of Mentor​, 
-        Employees are empowered & supported in mentoring Senior Leaders on their unique experiences & alternative perspectives.</p> 
+        Employees are empowered & supported in mentoring Senior Leaders on their unique experiences & perspectives.</p> 
         </div>
     </div>
     <div className="row mx-5">
