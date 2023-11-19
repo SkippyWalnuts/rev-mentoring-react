@@ -35,20 +35,14 @@
     font-weight: 500;
     }
 
-.Hero ul {
+.Hero .ratings {
     color: var(--secondary-color);
     font-family: 'Quicksand', sans-serif;
     font-size: 18px;
     font-weight: 800;
-    list-style: none;
-    padding: 0;
-}
-
-.Hero li {
+    margin: 5px auto;
     text-transform: uppercase;
     text-align: center;
-    margin: 0 auto;
-    padding: 0;
 }
 
 .contact-button {
@@ -85,8 +79,8 @@
         font-weight: 500;
     }
 
-    .Hero ul {
-        font-size: 15px;
+    .Hero .ratings {
+        font-size: 12px;
     }
 
 
