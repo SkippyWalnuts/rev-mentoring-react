@@ -21,7 +21,7 @@ export default function About() {
     </div>
     <div className="row">
         <h4>"…rarely can a <strong>response</strong> make something better. 
-                What makes something better is <strong>connection</strong>"{" "}
+                What makes something better is <strong>connection.</strong>"{" "}
            <a href="https://brenebrown.com/"
             target="_blank"
             rel="noreferrer"
@@ -30,11 +30,14 @@ export default function About() {
     </div> 
     <div className="row align-items-center">
         <div className="col">
-        <p>​Reverse Mentoring is your opportunity to build inclusive leadership by using the power of <em>connection</em>.​</p>
+        <p><em>Reversing</em> the role of Mentor​ gives 
+    Senior Leaders the chance to be mentored by Employees on perspectives the board-rooms 
+    are missing out on. 
+        ​</p>
 </div>
         <div className="col">
-        <p className="p-right">By <em>reversing</em> the role of Mentor​, 
-        Employees are empowered & supported in mentoring Senior Leaders on their unique experiences & perspectives.</p> 
+        <p className="p-right">In an increasingly virtual world, ​Reverse Mentoring helps your business harness the power 
+        of human <em>connection</em>...without the survey-fatigue!</p> 
         </div>
     </div>
     <div className="row mx-5">

@@ -18,13 +18,12 @@ export default function Reviews() {
         </div>
     </div>
     <div className="row">
-        <h4>"…rarely can a <strong>response</strong> make something better. 
-                What makes something better is <strong>connection</strong>"{" "}
-           <a href="https://brenebrown.com/"
+        <h4>           <a href="https://www.vernamyers.com/"
             target="_blank"
             rel="noreferrer"
-            alt="Brené Brown's Website"
-            className="quote-link">Brené Brown</a></h4>
+            alt="Vernā Myers' Website"
+            className="quote-link">"Diversity is being invited to the party; <strong>inclusion is being asked to 
+                dance.</strong>" Vernā Myers</a></h4>
     </div> 
     <p><strong>Mentor: </strong>​“I thoroughly enjoyed being part of the Reverse Mentoring scheme at (Company).
 
@@ -62,8 +61,7 @@ My favourite workshop that we did as mentees was where we shared experiences, wh
 </p>
 
 <p><strong>Mentee: </strong>
-“Reverse mentoring is such a great initiative and for the (Team) in helping develop a culture of understanding among employees who come from diverse backgrounds. ​
-I do think it will help drive the change needed in the right way. The launch session and subsequent check in sessions with Mentors and Mentees have been well structured and timely.  Using a good combination of show and tell and multimedia.​
+“Reverse mentoring is such a great initiative and for the (Company) in helping develop a culture of understanding among employees who come from diverse backgrounds. I do think it will help drive the change needed in the right way. The launch session and subsequent check in sessions with Mentors and Mentees have been well structured and timely.  Using a good combination of show and tell and multimedia.​
 On a personal level having the opportunity to learn about areas that I’m not familiar with, e.g. Metaverse, has been really powerful.  I also think it has helped my Mentor as they have had to think about their content and communication style to ensure that I understand..!”​
 ​</p>
 </div>
