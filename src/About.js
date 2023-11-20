@@ -36,8 +36,8 @@ export default function About() {
         ​</p>
 </div>
         <div className="col">
-        <p className="p-right">In an increasingly virtual world, ​Reverse Mentoring helps your business harness the power 
-        of human <em>connection</em>...without the survey-fatigue!</p> 
+        <p className="p-right">​Reverse Mentoring helps your business harness the power 
+        of human <em>connection</em> in an increasingly virtual world...without the survey-fatigue!</p> 
         </div>
     </div>
     <div className="row mx-5">
