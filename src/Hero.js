@@ -8,16 +8,15 @@ export default function Hero() {
     <div className="container-fluid hero-container">
         <div className="row align-items-center mb-2">
         <div className="col">
-        <img src="./images/teacher_undraw.svg" className="img-fluid teacher-img" alt="teaching at a laptop"></img>
-        </div>
-            <div className="col">
         <h1>
            Reverse
            <br />
            Mentoring
         </h1>
         </div>
-
+        <div className="col">
+        <img src="./images/teacher_undraw.svg" className="img-fluid teacher-img" alt="teaching at a laptop"></img>
+        </div>
         </div>
         <div className="row">
         <h2>
