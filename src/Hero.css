@@ -1,10 +1,10 @@
 .Hero {
-    margin: 0 auto 200px;
-    max-width: 650px;
+    margin: 0 auto;
    }
 
 .Hero .hero-container {
-    margin-top: 140px;
+    margin: 120px auto 200px;
+    max-width: 650px;
 }
 
 .Hero h1 {
@@ -59,6 +59,13 @@
     color: var(--accent-color);
 }
 
+.Hero p {
+    color: var(--accent-color);
+    font-size: 12px;
+    margin: 0 auto;
+    padding: 0;
+}
+
 
 @media (max-width: 700px) {
     .Hero {
@@ -81,6 +88,10 @@
 
     .Hero .ratings {
         font-size: 12px;
+    }
+
+    .Hero p {
+        font-size: 10px;
     }
 
 

@@ -26,12 +26,12 @@ export default function Hero() {
         <div className="row">
         <div className="col">
         <h3>
-            How helpful has our Reverse Mentoring been at your company?
+            How helpful has our Reverse Mentoring been at your company?*
         </h3>
         </div>
         <div className="col">
         <h3>
-         Would you recommend Reverse Mentoring to a colleague?
+         Would you recommend Reverse Mentoring to a colleague?*
         </h3>
         </div>
         </div>
@@ -72,13 +72,13 @@ export default function Hero() {
 </div>
         </div>
         </div>
-        <div className="col">
+        <div className="row">
             <div className="contact-button">
         <a href="mailto:becca.early@outlook.com?subject=Reverse Mentoring Query" title="Email Becca Early with Reverse Mentoring queries"><button>Contact</button></a>
         </div>
         </div>
-
          </div>
+         <p>*22 participants, dentsu International, Oct 2022</p>
          <span id="about"></span>
   </div>
     );
