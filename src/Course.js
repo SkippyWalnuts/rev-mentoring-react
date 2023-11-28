@@ -34,12 +34,12 @@ if (loaded) {
                  </div>
             </div>
             <div className="row">
-        <h4><a href="https://inclusion-paradox.com/site/about-andres-tapia/"
+        <h4>"Diversity is the mix. <strong>Inclusion is 
+             making the mix work.</strong>" <a href="https://inclusion-paradox.com/site/about-andres-tapia/"
             target="_blank"
             rel="noreferrer"
             alt="Andrés Tapia Inclusion Paradox"
-            className="quote-link">"Diversity is the mix. <strong>Inclusion is 
-             making the mix work.</strong>" Andrés Tapia</a>​</h4>
+            className="quote-link">Andrés Tapia</a>​</h4>
             </div> 
         </div>
         

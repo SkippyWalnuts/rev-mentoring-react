@@ -32,7 +32,7 @@ h3 {
 
 h4 {
    background-color: var(--accent-color);
-   color: var(--secondary-color);
+   color: var(--primary-color);
    font-family: 'Quicksand', sans-serif;
    font-size: 20px;
    padding: 12px;
@@ -51,7 +51,7 @@ p {
 button {
     background-color: var(--secondary-color);
     border-radius: 15px;
-    color: var(--accent-color);
+    color: var(--primary-color);
     font-family: 'Quicksand', sans-serif;
     font-size: 15px;
     font-weight: 800;
@@ -73,11 +73,11 @@ a {
 }
 
 .quote-link {
-    color: var(--secondary-color)
+    color: var(--primary-color)
 }
 
 .quote-link:hover {
-    color: var(--primary-color)
+    font-weight: bolder;
 }
 
 @media (max-width: 700px) {

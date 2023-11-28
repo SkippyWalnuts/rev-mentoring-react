@@ -18,12 +18,12 @@ export default function Reviews() {
         </div>
     </div>
     <div className="row">
-        <h4>           <a href="https://www.vernamyers.com/"
+        <h4>"Diversity is being invited to the party; <strong>inclusion is being asked to 
+                dance.</strong>" <a href="https://www.vernamyers.com/"
             target="_blank"
             rel="noreferrer"
             alt="Vernā Myers' Website"
-            className="quote-link">"Diversity is being invited to the party; <strong>inclusion is being asked to 
-                dance.</strong>" Vernā Myers</a></h4>
+            className="quote-link">Vernā Myers</a></h4>
     </div> 
     <p><strong>Mentor: </strong>​“I thoroughly enjoyed being part of the Reverse Mentoring scheme at (Company).
 
