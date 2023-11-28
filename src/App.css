@@ -1,11 +1,11 @@
 :root {
-    --primary-color: #1c274a;
+    --primary-color: #3f3d56;
     --secondary-color: #e8ab49;
     --accent-color: #fefefe;
 }
 
 body {
-    background: #1c274a;
+    background: var(--primary-color);
     min-width: 300px;
 }
 

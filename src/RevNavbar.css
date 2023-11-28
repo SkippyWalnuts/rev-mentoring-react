@@ -24,7 +24,7 @@
 }
 
 .RevNavbar .nav-link.active, .nav-link:hover, .nav-brand:hover {
-    color: var(--accent-color);
+font-style: oblique;
 }
 
 .RevNavbar .navbar-toggler {
@@ -32,6 +32,6 @@
 }
 
 .RevNavbar button {
-    border: solid 1px rgb(28, 39, 74, 0.6);
+    border: solid 2px rgb(63, 61, 87, 0.6);
   transition: all ease-in 80ms;
 }
