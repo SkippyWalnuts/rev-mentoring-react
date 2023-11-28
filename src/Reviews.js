@@ -13,8 +13,8 @@ export default function Reviews() {
             Measuring Success</h3>
          </div>
         <div className="col title-col">
-        <img src="../images/reverse-mentoring-ladder.png" className="img-fluid" 
-        alt="person pointing up a ladder against a wall of locks, as another person looks up holding a key"></img>
+        <img src="../images/personal_opinion_undraw.png" className="img-fluid" 
+                alt="a person holds a comment box containing their opinion"></img>
         </div>
     </div>
     <div className="row">

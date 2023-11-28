@@ -13,10 +13,9 @@ export default function About() {
             Reverse Mentoring</h3>
          </div>
         <div className="col title-col">
-       <a href="https://www.marieclaire.fr/le-reverse-mentoring-ou-le-phenomene-du-mentorat-inverse,1250730.asp" target="_blank" rel="noreferrer"
-       title="(Fr) Reverse mentoring or the Phenomenon of Reverse Mentoring by Julia Kadri">
-        <img src="../images/reverse-mentoring-ladder.png" className="img-fluid" 
-        alt="person pointing up a ladder against a wall of locks, as another person looks up holding a key"></img></a>
+       
+        <img src="../images/about_undraw.png" className="img-fluid" 
+        alt="a person in a wheelchair holds a phone in one hand while raising a comment box above their head"></img>
         </div>
     </div>
     <div className="row">

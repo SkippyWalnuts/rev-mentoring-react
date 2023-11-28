@@ -8,7 +8,7 @@ export default function CourseSection(props) {
 return (
         <div className="CourseSection">
 <div className=" container-fluid">
-<div className="row align-items-center course-section-title">
+<div className="row align-items-center">
         
         <div className="col title-col">
         <h3>{props.title}</h3>
