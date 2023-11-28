@@ -49,15 +49,16 @@ export default function About() {
     <h3>About Becca Early</h3>
     <div className="about-becca">
     <p> 20 years of working in support roles taught Becca how to manage 
-        busy Senior Executives' time effectively, whilst realising the lack of 
-        attendee diversity during crucial business meetings and work events. Building on the 
+        busy Senior Executives' time effectively, whilst overseeing a lack of 
+        attendee diversity during crucial business meetings and events. Building upon the 
         learnings of a Reverse Mentoring pilot-run with previous employer, dentsu, 
-        Becca led a newly designed version of the programme for 2-years, teaching others 
-        how to continue its success. Not only did the number of participants double in the second year, the feedback of those in attendance reflected how necessary
-        they felt Reverse Mentoring has become to any leadership team and organisation hoping to become inclusive. 
+        Becca led a newly designed version of the programme for 2-years, with a focus on peer-led discussions and 
+        schedule efficiency. Not only did the participants double in number by the second year (with plenty more applicants 
+        wait-listed), the feedback of those in attendance reflected how necessary
+        they felt Reverse Mentoring had become to their leaders and organisation. 
         <br />
-        Becca believes Reverse Mentoring has the power to change the world of business for the better, if done correctly, restoring the human-side of the virtual working environment
-        to suit even the trickiest of schedules.
+        Becca believes, if done right, Reverse Mentoring can change the world for good, bringing 
+        human connection into increasingly-virtual work environments, adapting to even the tightest of schedules.
         </p>
     </div>
     </div>
