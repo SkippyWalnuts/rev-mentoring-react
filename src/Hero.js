@@ -37,14 +37,13 @@ export default function Hero() {
         </div>
         <div className="row">
         <div className="col">
-               <div className="ratings">  Mentors{" "}
+               <div className="ratings">  
+               Mentors{" "}
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star-half-stroke"></i> 4.8
-                </div>
-                 <div className="ratings">
                 Mentees{" "}
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
@@ -61,8 +60,6 @@ export default function Hero() {
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star-half-stroke"></i> 4.7
-                </div> 
-                 <div className="ratings">
                 Mentees{" "}
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
@@ -72,7 +69,7 @@ export default function Hero() {
 </div>
         </div>
         </div>
-        <div className="row">
+        <div className="col">
             <div className="contact-button">
         <a href="mailto:becca.early@outlook.com?subject=Reverse Mentoring Query" title="Email Becca Early with Reverse Mentoring queries"><button>Contact</button></a>
         </div>
