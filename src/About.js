@@ -49,7 +49,7 @@ export default function About() {
     <h3>About Becca Early</h3>
     <div className="about-becca">
     <p> 20 years of working in support roles taught Becca how to manage 
-        busy Senior Executives' time effectively, whilst highlighting the lack of 
+        busy Senior Executives' time effectively, whilst realising the lack of 
         attendee diversity during crucial business meetings and work events. Building on the 
         learnings of a Reverse Mentoring pilot-run with previous employer, dentsu, 
         Becca led a newly designed version of the programme for 2-years, teaching others 
