@@ -46,7 +46,21 @@ export default function About() {
     allowFullScreen={true} 
     title="Becca Early explains why reverse mentoring is good for you, your employees and your business"
     className="streamly-video"> </iframe>
-        </div>
+    <h3>About Becca Early</h3>
+    <div className="about-becca">
+    <p> 20 years of working in support roles taught Becca how to manage 
+        busy Senior Executives' time effectively, whilst highlighting the lack of 
+        attendee diversity during crucial business meetings and work events. Building on the 
+        learnings of a Reverse Mentoring pilot-run with previous employer, dentsu, 
+        Becca led a newly designed version of the programme for 2-years, teaching others 
+        how to continue its success. Not only did the number of participants double in the second year, the feedback of those in attendance reflected how necessary
+        they felt Reverse Mentoring has become to any leadership team and organisation hoping to become inclusive. 
+        <br />
+        Becca believes Reverse Mentoring has the power to change the world of business for the better, if done correctly, restoring the human-side of the virtual working environment
+        to suit even the trickiest of schedules.
+        </p>
+    </div>
+    </div>
 </div>   
 <span id="course"></span>   
 </div>

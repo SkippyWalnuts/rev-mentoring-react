@@ -13,8 +13,12 @@
     aspect-ratio: 16/9;
     border: dotted 8px var(--accent-color);
     display: block;
-    margin: 10px auto 0;
+    margin: 10px auto 20px;
     max-width: 800px;
     padding: 0;    
     
+}
+
+.About .about-becca p{
+    font-size: 15px;
 }
