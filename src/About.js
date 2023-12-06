@@ -48,12 +48,14 @@ export default function About() {
     className="streamly-video"> </iframe>
     <h3>About Becca Early</h3>
     <div className="about-becca">
-    <p> 20 years of working in support roles taught Becca how to manage 
-        busy Senior Executives' time effectively, whilst overseeing a lack of 
-        attendee diversity during crucial business meetings and events. Building upon the 
-        learnings of a Reverse Mentoring pilot-run with previous employer, dentsu, 
-        Becca led a newly designed version of the programme for 2-years, with a focus on peer-led discussions and 
-        schedule efficiency. Not only did the participants double in number by the second year (with plenty more applicants 
+    <p> 20 years of working in support roles taught Becca <strong>how to manage 
+        busy Senior Leaders' time effectively</strong>, whilst noticing the 
+        lack of attendee diversity during crucial business meetings and business
+        events. After taking part as a Mentor for 1 year of dentsu's Reverse Mentoring 
+        in-house pilot, Becca adapted the programme for the Global Media service-line,
+       including peer-led discussions and scheduling simplicity.
+        Participant numbers doubled by the second year, thanks to the encouragement of word-of-mouth reviews. 
+         in number by the second year (with plenty more applicants 
         wait-listed), the feedback of those in attendance reflected how necessary
         they felt Reverse Mentoring had become to their leaders and organisation. 
         <br />
