@@ -36,7 +36,7 @@ export default function About() {
 </div>
         <div className="col">
         <p className="p-right">​Reverse Mentoring helps your business harness the power 
-        of human <em>connection</em> in an increasingly virtual world...without the survey-fatigue!</p> 
+        of human <em>connection</em> in a virtual world...without the survey-fatigue!</p> 
         </div>
     </div>
     <div className="row mx-5">
@@ -48,19 +48,26 @@ export default function About() {
     className="streamly-video"> </iframe>
     <h3>About Becca Early</h3>
     <div className="about-becca">
-    <p> 20 years of working in support roles taught Becca <strong>how to manage 
-        busy Senior Leaders' time effectively</strong>, whilst noticing the 
-        lack of attendee diversity during crucial business meetings and business
-        events. After taking part as a Mentor for 1 year of dentsu's Reverse Mentoring 
-        in-house pilot, Becca adapted the programme for the Global Media service-line,
-       including peer-led discussions and scheduling simplicity.
-        Participant numbers doubled by the second year, thanks to the encouragement of word-of-mouth reviews. 
-         in number by the second year (with plenty more applicants 
-        wait-listed), the feedback of those in attendance reflected how necessary
-        they felt Reverse Mentoring had become to their leaders and organisation. 
+    <p> 20 years of working in support roles taught Becca how to manage 
+        busy schedules as effectively as possible, whilst finding it impossible to ignore the severe
+        lack of attendee diversity within crucial business meetings. 
         <br />
-        Becca believes, if done right, Reverse Mentoring can change the world for good, bringing 
-        human connection into increasingly-virtual work environments, adapting to even the tightest of schedules.
+        <br />
+        Following a year of mentoring with dentsu UK's Reverse Mentoring pilot, Becca was asked to project-manage the 
+        programme for dentsu Global's Media service-line. Drawing upon an understanding of how to capture the attention 
+        of busy Senior Leaders, with an aim to restore employee faith in equitable leadership, Becca built a framework 
+        of workshops, peer-led group discussions and schedule-simplicity. 
+        <br />
+        <br />
+        Global Media's reviews and 5-star ratings caught the interest of many others at dentsu. In fact, participant 
+        numbers doubled by Becca's second year of project-management, with multiple service lines of varying international locations 
+        requesting access to apply. Many needed to be wait-listed for future rollouts, demonstrating just how important Reverse Mentoring 
+        had become to the organisation on a truly global scale. 
+        <br />
+        <br />
+        Becca's Reverse Mentoring has the potential to restore human connection within businesses and industries 
+        in an increasingly virtual world. For support in developing inclusive leadership within your organisation, 
+        arrange your free consultation call today!
         </p>
     </div>
     </div>
