@@ -43,7 +43,7 @@ I enjoyed my discussions with (Mentee); they were insightful for both of us. My 
 
 
 </p>
-<p><strong>Mentee: </strong>
+<p><strong>Paul Hughes, dentsu Mentee 2022: </strong>
 “The Reverse Mentoring programme has been a really worthwhile investment of my time. ​
 
 I've gained some great insights and reflections from my Mentor and also benefited from the regular briefing and coaching from the expert team running the programme.”​
