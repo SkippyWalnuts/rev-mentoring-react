@@ -1,30 +1,27 @@
-.RevNavbar .navbar {
+.RevNavbar .nav-navbar {
     background-color: var(--secondary-color);
     border-bottom: solid 5px var(--accent-color);
     font-family: 'Carlito', sans-serif;
    
 }
 
-.RevNavbar .nav-brand {
+.RevNavbar .nav-company-name {
    text-transform: uppercase;
    
 }
 
-.RevNavbar .nav-brand, .nav-link {
+.RevNavbar .nav-company-name, .nav-page {
     color: var(--primary-color);
     font-size: 14px;
     font-weight: 800;
-    letter-spacing: 4px;
+    letter-spacing: 4px; 
+    text-decoration: underline dotted 4px var(--secondary-color);
     transition: all ease-in 80ms;
 }
 
-.RevNavbar .nav-link {
-    margin: 0 10px;
-    transition: all ease-in 80ms;
-}
-
-.RevNavbar .nav-link.active, .nav-link:hover, .nav-brand:hover {
-font-style: oblique;
+.RevNavbar .nav-page.active, .nav-page:hover, .nav-company-name:hover {
+    color: var(--primary-color);
+    text-decoration-color: var(--accent-color);
 }
 
 .RevNavbar .navbar-toggler {
@@ -32,6 +29,6 @@ font-style: oblique;
 }
 
 .RevNavbar button {
-    border: solid 2px rgb(63, 61, 87, 0.6);
+  border: solid 2px rgb(63, 61, 87, 0.6);
   transition: all ease-in 80ms;
 }
