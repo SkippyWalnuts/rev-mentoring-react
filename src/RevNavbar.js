@@ -7,17 +7,17 @@ import "./RevNavbar.css";
 export default function RevNavbar() {
   return (
     <div className="RevNavbar">
-    <Navbar collapseOnSelect expand="md" fixed="top">
+    <Navbar collapseOnSelect expand="md" fixed="top" className="nav-navbar">
       <Container className="nav-container">
-        <Navbar.Brand className="nav-brand" href="/#home">Reverse Mentoring</Navbar.Brand>
+        <Navbar.Brand className="nav-brand nav-company-name nav-text" href="/#home">Reverse Mentoring</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav"/>
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="/#home" title="Homepage" className="nav-link">Home</Nav.Link>
-            <Nav.Link href="/#about" title="About Reverse Mentoring" className="nav-link">About</Nav.Link>
-            <Nav.Link href="/#course" title="Reverse Mentoring Course Overview" className="nav-link">Course</Nav.Link>
-            <Nav.Link href="/#Reviews" title="Reviews of Reverse Mentoring" className="nav-link">Reviews</Nav.Link>
-            <Nav.Link href="mailto:becca.early@outlook.com?subject=Reverse Mentoring Query" title="Email Becca Early with Reverse Mentoring queries" className="nav-link">Contact</Nav.Link>
+            <Nav.Link href="/#home" title="Homepage" className="nav-title nav-page nav-text">Home</Nav.Link>
+            <Nav.Link href="/#about" title="About Reverse Mentoring" className="nav-link nav-page nav-text">About</Nav.Link>
+            <Nav.Link href="/#course" title="Reverse Mentoring Course Overview" className="nav-link nav-page nav-text">Course</Nav.Link>
+            <Nav.Link href="/#Reviews" title="Reviews of Reverse Mentoring" className="nav-link nav-page nav-text">Reviews</Nav.Link>
+            <Nav.Link href="mailto:becca.early@outlook.com?subject=Reverse Mentoring Query" title="Email Becca Early with Reverse Mentoring queries" className="nav-link nav-page nav-text">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
