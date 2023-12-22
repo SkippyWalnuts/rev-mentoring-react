@@ -19,7 +19,10 @@ const contentsMapping = {
         or similar to take part as an Advisor on our panel. These volunteers aid us in matching Mentors to Mentees, share insights 
         during group discussions & help your company maintain 'in-house' Reverse Mentoring once our consultation has ended.
      </p>,
-      "Workshops": <p>Conversation Starters, Empathy, Privilege, Setting Boundaries, Taking Accountability</p>
+      "Workshops": <p>To empower Mentors, engage Mentees and support participants in navigating personal conversations with peers, our Mentor Advisors 
+       hold a series of workshops throughout the course of Reverse Mentoring. These include group discussions on inclusion-related topics, such as 'Privilege', 
+       'Empathy', 'Taking Accountability' or 'Setting Boundaries'. 
+      </p>
 
 };
 
