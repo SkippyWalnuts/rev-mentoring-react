@@ -1,12 +1,12 @@
 import React from "react";
-import CourseDetails from "./CourseDetails";
-import "./CourseSection.css";
+import ReviewsText from "./ReviewsText";
+import "./ReviewsSection.css";
 
 
-export default function CourseSection(props) {
+export default function ReviewsSection(props) {
 
 return (
-        <div className="CourseSection">
+        <div className="ReviewsSection">
 <div className=" container-fluid">
 <div className="row align-items-center">
         
@@ -19,7 +19,7 @@ return (
         </div>
     </div>
     <div className="row">
-<CourseDetails contents={props.title}/>
+<ReviewsText contents={props.title}/>
     </div>
 </div>
         </div>

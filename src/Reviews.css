@@ -1,5 +1,22 @@
 .Reviews {
-    background-color: var(--secondary-color);
-    color: var(--primary-color);
-    margin: 0 auto 50px;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    padding-bottom: 50px;
+}
+
+.reviews-buttons {
+    margin: 15px auto;
+    max-width: 950px;
+    padding: 0 70px;
+}
+
+.Reviews button {
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+@media (max-width: 700px) {
+    .reviews-buttons {
+        margin: 20px auto;
+    }
 }

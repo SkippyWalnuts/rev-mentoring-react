@@ -72,7 +72,7 @@ export default function About() {
     </div>
     </div>
 </div>   
-<span id="course"></span>   
+<span id="reviews"></span>   
 </div>
        
        );

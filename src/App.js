@@ -1,8 +1,6 @@
 import React from "react";
 import Hero from "./Hero";
 import About from "./About";
-import Course from "./Course";
-
 import Reviews from "./Reviews";
 import RevNavbar from "./RevNavbar";
 import './App.css';
@@ -13,8 +11,7 @@ function App() {
 <RevNavbar />
 <Hero />
 <About />
-<Course defaultSection="Mentors" />
-<Reviews />
+<Reviews defaultSection="Mentors" />
 
     </div>
   );
