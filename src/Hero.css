@@ -9,7 +9,7 @@
 
 .Hero h1 {
     margin: 0 auto;
-    text-align: right;
+    text-align: left;
     text-transform: uppercase;
     color: var(--secondary-color);
     font-size: 70px;
