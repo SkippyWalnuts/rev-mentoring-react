@@ -24,7 +24,7 @@ if (loaded) {
             <div className="row title-row align-items-center">
                 <div className="col-4 title-col">
                 <img src="../images/reviews_undraw.png" className="title-img img-fluid" 
-                alt="a person holds pages of paper while looking at instructions for what is next"></img>
+                alt="a person holds their speech bubble and stands to the right of a larger speech bubble"></img>
                 </div>
                 <div className="col title-col">
                 <h3>

@@ -14,7 +14,7 @@ export default function Hero() {
         </h1>
         </div>
         <div className="col">
-        <img src="./images/teacher_undraw.svg" className="img-fluid teacher-img" alt="teaching at a laptop"></img>
+        <img src="./images/teacher_undraw.svg" className="img-fluid teacher-img" alt="a person holds up a piece of paper with text on it to show someone on their laptop's webcam"></img>
         </div>
         </div>
         <div className="row">
