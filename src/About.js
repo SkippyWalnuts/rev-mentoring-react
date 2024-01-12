@@ -39,7 +39,7 @@ export default function About() {
         of human <em>connection</em> in a virtual world...without the survey-fatigue!</p> 
         </div>
     </div>
-    <div className="row mx-5">
+    <div className="row">
     <h5>Why Reverse Mentoring is good for you, your employees & your business</h5>
     <iframe src="https://streamly.video/embed/video/why-reverse-mentoring-is-good-for-you-your-employees-and-your-business" 
     scrolling="no" 

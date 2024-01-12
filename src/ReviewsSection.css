@@ -4,7 +4,8 @@
     border: dotted 8px var(--accent-color);
     color: var(--secondary-color);
     margin: 0 150px;
-    padding: 20px 0;
+    padding: 20px 10px;
+   
 }
 
 .ReviewsSection h3 {
@@ -14,17 +15,19 @@
 .ReviewsSection p {
     color: var(--secondary-color);
     font-size: 18px;
-    padding: 10px 40px;
+ 
 }
 
 
 @media (max-width: 700px) {
     .ReviewsSection {
         margin: 0 50px;
+        padding: 15px 8px;
     }
 
     .ReviewsSection p {
         font-size: 15px;
+      
     }
 }
 

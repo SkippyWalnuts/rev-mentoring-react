@@ -1,7 +1,7 @@
 :root {
-    --primary-color: #3f3d56;
+    --primary-color: #430d27;
     --secondary-color: #fefefe;
-    --accent-color: #430d27;
+    --accent-color: #3f3d56;
 }
 
 body {
@@ -114,8 +114,7 @@ a {
 
     p {
         font-size: 18px;
-        padding: 5px;  
-}
+        }
     
     button {
         font-size: 11px;
