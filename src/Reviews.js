@@ -23,7 +23,7 @@ if (loaded) {
           <div className="container-fluid">
             <div className="row align-items-center">
                 <div className="col-4 title-col">
-                <img src="../images/overview_undraw.png" className="img-fluid" 
+                <img src="../images/reviews_undraw.png" className="img-fluid" 
                 alt="a person holds pages of paper while looking at instructions for what is next"></img>
                 </div>
                 <div className="col title-col">
