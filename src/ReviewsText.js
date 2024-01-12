@@ -2,7 +2,7 @@ import React from "react";
 
 export default function ReviewsText(props) {
 const contentsMapping = {
-    "Mentors": <div><p><strong>Shannon Tobias, dentsu Mentor 2023: </strong>​
+    "Mentor Reviews": <div><p><strong>Shannon Tobias, dentsu Mentor 2023: </strong>​
     “When I initially saw Becca's reverse mentoring scheme invite, I was immediately intrigued as someone had finally created a programme with an opportunity to speak to more senior team 
     members about topics faced in digital marketing! 
     
@@ -32,7 +32,7 @@ so this was a good platform for mutual openness and discussion, and bringing cer
     As Mentors, we are empowered to take responsibility for our Mentees’ education to bring about a positive impact on our people and therefore, drive business transformation through open, honest conversations to grow together.”​
     </p>
     </div>,
-     "Mentees": <div>    <p><strong>Peter Huijboom, dentsu Mentee 2022:</strong> “…it’s important that leaders and managers 
+     "Mentee Reviews": <div>    <p><strong>Peter Huijboom, dentsu Mentee 2022:</strong> “…it’s important that leaders and managers 
      realize that they will need to lead and manage very differently to be successful in this new world. 
      Openness, Transparency, Vulnerability, and Generosity are all critical to mastering these new relationships. 
      For many, this is an important ‘reset’ in how they work, and leaders may benefit from some ‘reverse mentoring’, 

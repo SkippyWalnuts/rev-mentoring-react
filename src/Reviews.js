@@ -21,9 +21,9 @@ if (loaded) {
     return (
         <div className="Reviews">
           <div className="container-fluid">
-            <div className="row align-items-center">
+            <div className="row title-row align-items-center">
                 <div className="col-4 title-col">
-                <img src="../images/reviews_undraw.png" className="img-fluid" 
+                <img src="../images/reviews_undraw.png" className="title-img img-fluid" 
                 alt="a person holds pages of paper while looking at instructions for what is next"></img>
                 </div>
                 <div className="col title-col">
@@ -45,10 +45,10 @@ if (loaded) {
         
         <div className="row reviews-buttons">
             <div className="col-md">
-                <button value="Mentors" title="Mentors" onClick={handleClick}>Mentors​</button>
+                <button value="Mentor Reviews" title="Mentor Reviews" onClick={handleClick}>Mentor Reviews​</button>
             </div>
             <div className="col">
-            <button value ="Mentees" title="Mentees" onClick={handleClick}>Mentees​</button>
+            <button value ="Mentee Reviews" title="Mentee Reviews" onClick={handleClick}>Mentee Reviews​</button>
             </div>
             </div>
         <ReviewsSection title={section} />      
