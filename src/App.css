@@ -1,7 +1,7 @@
 :root {
-    --primary-color: #430d27;
+    --primary-color: #3f3d56;
     --secondary-color: #fefefe;
-    --accent-color: #c94e4e;
+    --accent-color: #430d27;
 }
 
 body {
@@ -9,9 +9,18 @@ body {
     min-width: 300px;
 }
 
+.title-row {
+    background-color: var(--secondary-color);
+}
+
+
 .title-col{
     padding: 0;
    
+}
+
+.title-img {
+    max-height: 300px;
 }
 
 h1, h2 {
@@ -19,6 +28,7 @@ h1, h2 {
 }
 
 h3 {
+    color: var(--primary-color);
    font-family: 'Carlito', sans-serif;
    font-size: 30px;
    font-weight: 800;
@@ -32,15 +42,25 @@ h3 {
 
 h4 {
    background-color: var(--accent-color);
-   color: var(--primary-color);
+   color: var(--secondary-color);
    font-family: 'Quicksand', sans-serif;
    font-size: 20px;
    padding: 12px;
    text-align: center;
 }
 
+h5 {
+    background-color: var(--secondary-color);
+    border-radius: 5px;
+    color: var(--accent-color);
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+    padding: 12px;
+    text-align: center;
+}
+
 p {
-   color: var(--primary-color);
+   color: var(--secondary-color);
    font-family: 'Quicksand', sans-serif;
    font-size: 22px;
    font-weight: 600;
@@ -73,7 +93,7 @@ a {
 }
 
 .quote-link {
-    color: var(--primary-color)
+    color: var(--secondary-color)
 }
 
 .quote-link:hover {
@@ -96,6 +116,7 @@ a {
 
     p {
         font-size: 18px;
+        padding: 5px;  
 }
     
     button {

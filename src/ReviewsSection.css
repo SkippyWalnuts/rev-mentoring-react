@@ -7,6 +7,10 @@
     padding: 20px 0;
 }
 
+.ReviewsSection h3 {
+    color: var(--secondary-color);
+}
+
 .ReviewsSection p {
     color: var(--secondary-color);
     font-size: 18px;
