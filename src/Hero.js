@@ -9,7 +9,8 @@ export default function Hero() {
         <div className="row align-items-center mb-2">
         <div className="col">
         <h1>
-          A Better Understanding
+          A Better
+          <br /> Understanding
         </h1>
         </div>
         <div className="col">
