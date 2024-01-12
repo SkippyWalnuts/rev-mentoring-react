@@ -63,31 +63,26 @@
 
 
 @media (max-width: 700px) {
-    .Hero {
-        max-width: 450px;
+    .Hero .hero-container {
+        max-width: 400px;
         padding: 10px;
       
     }
     .Hero  h1 {
-        font-size: 40px;
+        font-size: 35px;
         
     }
     .Hero  h2 {
-        font-size: 17px;
+        font-size: 15px;
     }
 
     .Hero h3 {
-        font-size: 12px;
+        font-size: 13px;
         font-weight: 500;
     }
 
     .Hero .ratings {
-        font-size: 12px;
+        font-size: 11px;
     }
-
-    .Hero p {
-        font-size: 10px;
-    }
-
 
 }

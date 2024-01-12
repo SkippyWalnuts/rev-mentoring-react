@@ -62,8 +62,6 @@ h5 {
 p {
    color: var(--secondary-color);
    font-family: 'Quicksand', sans-serif;
-   font-size: 22px;
-   font-weight: 600;
    padding: 10px 25px;  
    text-align: left;
 }
