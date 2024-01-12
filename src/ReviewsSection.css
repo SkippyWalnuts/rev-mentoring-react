@@ -3,8 +3,8 @@
     background-color: var(--primary-color);
     border: dotted 8px var(--accent-color);
     color: var(--secondary-color);
-    margin: 0 auto;
-    max-width: 785px;
+    margin: 0 150px;
+    padding: 20px 0;
 }
 
 .ReviewsSection p {
@@ -15,9 +15,8 @@
 
 
 @media (max-width: 700px) {
-
     .ReviewsSection {
-        max-width: 90%;
+        margin: 0 50px;
     }
 
     .ReviewsSection p {
