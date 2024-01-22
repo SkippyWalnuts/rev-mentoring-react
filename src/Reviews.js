@@ -45,10 +45,10 @@ if (loaded) {
         
         <div className="row reviews-buttons">
             <div className="col-md">
-                <button value="Mentor Reviews" title="Mentor Reviews" onClick={handleClick}>Mentor Reviews​</button>
+                <button value="Mentor Reviews" title="Mentor Reviews" onClick={handleClick}>View Mentor Reviews​</button>
             </div>
             <div className="col">
-            <button value ="Mentee Reviews" title="Mentee Reviews" onClick={handleClick}>Mentee Reviews​</button>
+            <button value ="Mentee Reviews" title="Mentee Reviews" onClick={handleClick}>View Mentee Reviews​</button>
             </div>
             </div>
         <ReviewsSection title={section} />      
