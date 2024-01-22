@@ -14,18 +14,19 @@ export default function Hero() {
         </h1>
         </div>
         <div className="col">
-        <img src="./images/teacher_undraw.svg" className="img-fluid teacher-img" alt="a person holds up a piece of paper with text on it to show someone on their laptop's webcam"></img>
+        <img src="./images/teacher_undraw.svg" className="img-fluid teacher-img" 
+        alt="a person holds up a piece of paper with text on it to show someone on their laptop's webcam"></img>
         </div>
         </div>
         <div className="row">
         <h2>
-            Supporting the development of inclusive leadership
+            Reverse Mentoring consultancy for inclusive leadership development
         </h2>
         </div>
         <div className="row">
         <div className="col">
         <h3>
-            How helpful has our Reverse Mentoring been at your company?*
+            How helpful has Reverse Mentoring been at your company?*
         </h3>
         </div>
         <div className="col">
