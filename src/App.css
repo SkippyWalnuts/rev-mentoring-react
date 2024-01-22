@@ -51,7 +51,7 @@ h4 {
 
 h5 {
     background-color: var(--secondary-color);
-    border-radius: 5px;
+    border-radius: 2px;
     color: var(--accent-color);
     font-family: 'Quicksand', sans-serif;
     font-size: 18px;
@@ -90,11 +90,11 @@ a {
     transition: all ease-in 12ms;
 }
 
-.quote-link {
+.quote-link, .ReviewsText a {
     color: var(--secondary-color)
 }
 
-.quote-link:hover {
+.quote-link:hover, .ReviewsText a:hover {
     font-weight: bolder;
 }
 

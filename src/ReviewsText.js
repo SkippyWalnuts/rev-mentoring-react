@@ -27,10 +27,7 @@ so this was a good platform for mutual openness and discussion, and bringing cer
     I really hope this can continue at (Company) and I would definitely encourage other colleagues to join. The team who chooses the pairings and run the Mentor/Mentee sessions are fantastic and they make the sessions engaging, informative and interesting.”​
     
     </p>
-    <p><strong>dentsu Mentor 2022: </strong>​
-    “Reverse Mentoring is an excellent scheme to dedicate time away from the day-to-day to focus on I&D (Inclusion & Diversity) topics.​
-    As Mentors, we are empowered to take responsibility for our Mentees’ education to bring about a positive impact on our people and therefore, drive business transformation through open, honest conversations to grow together.”​
-    </p>
+
     </div>,
      "Mentee Reviews": <div>    <p><strong>Peter Huijboom, dentsu Mentee 2022:</strong> “…it’s important that leaders and managers 
      realize that they will need to lead and manage very differently to be successful in this new world. 
@@ -40,6 +37,7 @@ so this was a good platform for mutual openness and discussion, and bringing cer
      <br />
      <em>Written for the prologue of{" "} 
      <a href="https://www.waterstones.com/book/engaging-the-workforce/nicos-rossides/9781032220352"
+     className=""
      target="_blank"
      rel="noreferrer"
      alt="Waterstones website selling book titled 'Engaging the Workforce' by Nicos Rossides, where a previous Reverse Mentoring Mentee wrote this review">
