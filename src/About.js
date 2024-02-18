@@ -37,7 +37,7 @@ export default function About() {
 
             A Better Understanding teaches teams how to 
             <strong>{" "}stay connected across digital work-environments</strong>, 
-            empowering employees to<strong>{" "}Mentor-the-Managers</strong>, 
+            empowering employees to<strong>{" "}Mentor-the-Managers{" "}</strong>(i.e. 'reverse' mentoring), 
             and encourage <strong>{" "}equitably inclusive decision-making{" "}</strong>
             in company board-rooms.
             <div className="about-bold">
@@ -63,16 +63,24 @@ export default function About() {
     </div>
 
     <div className="row about-row">
-    <h5>Do We Have the Time <div>(and Budget...)?</div></h5>
+    <h5>Do You Have the Time <div>(and Budget...)?</div></h5>
     <p>A Better Understanding uses <strong>The Power of The PA{" "}</strong>
     to create <strong>sustainable</strong> bridges between employees and their managers. Designed 
     and led by a team of Personal and Executive Assistants, <strong>scheduling efficiency</strong> is 
-    a key ingredient to success. 
+    key to success. 
        <br />
        <br />
-    <strong>A Better Understanding Consultation{" "}</strong>includes 1 Consultant Advisor per 10 Participants (5 Mentors and 5 Mentees). 
-    The selected Consultant Advisors have extensive Assistant and Administrator experience, including qualifications in counselling, 
-    psychology and Mental Health First Aid. 
+    <strong>A Better Understanding Consultation{" "}</strong>includes:
+    <br />
+    <ul>
+    <li>1 x Consultant Advisor</li>
+     <li>5 Mentors - 5 Mentees</li>
+    </ul>
+    
+    Our Consultant Advisors have extensive Assistant and Administrator experience, including qualifications in 
+    counselling, psychology and Mental Health First Aid. Each Advisor brings their own 
+    perspective during group discussions, aids in matching Mentors to Mentees, and can 
+    speak confidently with participants, regardless of seniority. 
     <br />
     <br />   
     <strong>The Power of The PA Training{" "}</strong> increases the chances for long-term success, 
