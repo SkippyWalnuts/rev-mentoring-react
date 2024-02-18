@@ -40,16 +40,16 @@ export default function About() {
             empowering employees to<strong>{" "}Mentor-the-Managers</strong>, 
             and encourage <strong>{" "}equitably inclusive decision-making{" "}</strong>
             in company board-rooms.
-            <div className="about-bold mb-0">
+            <div className="about-bold">
             Goodbye, survey-fatigue!
             </div> 
         ​</p>
 </div>
-        <div className="col">
+        <div className="col mb-3">
             <p> 
              A Better Understanding offers a <strong>safe space{" "}</strong> 
-             to build bridges with <strong>vulnerability and friendship</strong>, 
-             guided by mediated, peer-led discussion topics: 
+             to learn how to lead with <strong>vulnerability and friendship</strong>, 
+             assisted by mediated, peer-led discussion topics throughout the year: 
             <div className="about-bold workshops">
             <ul>
             <li>Empathy</li>
@@ -67,24 +67,19 @@ export default function About() {
     <p>A Better Understanding uses <strong>The Power of The PA{" "}</strong>
     to create <strong>sustainable</strong> bridges between employees and their managers. Designed 
     and led by a team of Personal and Executive Assistants, <strong>scheduling efficiency</strong> is 
-    a key ingredient to success, which is often missed from other management courses. 
+    a key ingredient to success. 
        <br />
        <br />
-        
-         
+    <strong>A Better Understanding Consultation{" "}</strong>includes 1 Consultant Advisor per 10 Participants (5 Mentors and 5 Mentees). 
+    The selected Consultant Advisors have extensive Assistant and Administrator experience, including qualifications in counselling, 
+    psychology and Mental Health First Aid. 
+    <br />
+    <br />   
+    <strong>The Power of The PA Training{" "}</strong> increases the chances for long-term success, 
+    regardless of budget cuts! Give your own Assistants and Administrators the opportunity to facilitate alongside 
+    a Consultant Advisor, taking 'tailor-made' to a whole new level. Keep the momentum going with annual refreshers 
+    and consider it like DEI First Aid; wouldn't it be great to have trained Advisors in every business? 
     </p>
-    </div>
-
-    <div className="row">
-    <h5>Why Reverse Mentoring* is good for you, your employees & your business</h5>
-    <iframe src="https://streamly.video/embed/video/why-reverse-mentoring-is-good-for-you-your-employees-and-your-business" 
-    scrolling="no" 
-    allowFullScreen={true} 
-    title="Becca Early explains why reverse mentoring is good for you, your employees and your business"
-    className="streamly-video"> </iframe>
-    <h5>About Becca Early</h5>
-    
-    
     </div>
 </div>   
 <span id="reviews"></span>   
