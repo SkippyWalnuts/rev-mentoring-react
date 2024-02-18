@@ -74,16 +74,16 @@ export default function About() {
        <br />
     <strong>A Better Understanding Consultation{" "}</strong>includes:
     </p>
-    <div className="about-standout">
+    <div className="about-standout consultation-details">
     <ul>
-    <li>1 x Consultant Advisor = 5 Matches/10 Participants</li>
+    <li>1 - 4 Consultant Advisor(s)</li>
      <li>5 - 20 Matches/10 - 40 Participants</li>
-     <li>1 x 4min Application Form</li>
-     <li>1 x 1hr Introduction & Briefing Call</li>
-     <li>1 x 1hr Mentor Conversations (Min. 3) </li>
-     <li>3 x 1hr Annual Mentor Guided Discussions</li>
-     <li>3 x 1hr Annual Mentee Guided Discussions</li>
-     <li>1 x 1hr Beyond A Better Understanding</li>
+     <li>Application & Matchmaking</li>
+     <li>Introduction & Briefing Call</li>
+     <li>Mentor Conversations (Min. 3) </li>
+     <li>3 x Mentor Guided Discussions</li>
+     <li>3 x Mentee Guided Discussions</li>
+     <li>Beyond A Better Understanding</li>
      <li>Time Commitment  = <strong>5hr 4min - 11hr 4min</strong></li>
     </ul>
     </div>
@@ -95,9 +95,9 @@ export default function About() {
     <br />
     <br />
     <strong>The Power of The PA Training{" "}</strong> increases the chances for long-term success, 
-    <strong>{" "}regardless of budget cuts</strong>! Give up to 3 of your company Assistants and Administrators the opportunity to facilitate 
+    <strong>{" "}regardless of budget cuts</strong>! Give 1 - 3 of your company Assistants and Administrators the opportunity to facilitate 
     alongside a Consultant Advisor, taking 'tailor-made' to a whole new level. Keep the momentum going with annual 
-    refreshers and <strong>consider it to be like DEI First Aid</strong>; we hope to have trained Advisors in every business, someday...
+    refreshers and <strong>consider it to be like DEI First Aid</strong>; we dream of training Advisors in every industry imaginable.
 </p> 
     </div>
 </div>   

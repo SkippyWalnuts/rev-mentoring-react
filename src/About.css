@@ -25,14 +25,8 @@
     max-width: 60%;
 }
 
-.About .streamly-video {
-    aspect-ratio: 16/9;
-    border-radius: 5px;
-    display: block;
-    margin: 10px auto 20px;
-    max-width: 800px;
-    padding: 0;    
-    
+.About .consultation-details {
+    text-align: center;
 }
 
 
@@ -40,6 +34,10 @@
 
     .About .about-row {
         margin: 0 10px;
+    }
+
+    .About .consultation-details {
+        text-align: left;
     }
 
 }
