@@ -20,7 +20,7 @@ export default function Hero() {
         </div>
         <div className="row">
         <h2>
-            Reverse Mentoring consultancy for inclusive leadership development
+           Creating bridges between employees and their managers
         </h2>
         </div>
         <div className="row">
