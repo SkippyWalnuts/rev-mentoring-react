@@ -21,7 +21,7 @@ export default function About() {
         </div>
     </div>
     <div className="row">
-        <h4>"Ask with genuine curiosity, why do YOU think that is?"{" "}
+        <h4>"...ask with genuine curiosity, why do YOU think that is?"{" "}
          <div>  <a href="https://www.instagram.com/a_becca_understanding"
             target="_blank"
             rel="noreferrer"
