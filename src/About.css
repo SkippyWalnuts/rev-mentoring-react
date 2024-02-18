@@ -3,6 +3,30 @@
     padding: 0 0 50px;
 }
 
+.About .about-row {
+    margin: 0 100px;
+}
+
+.About .about-bold {
+    font-weight: bold;
+    margin: 15px auto;
+}
+
+.About p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.About .workshops ul {
+    padding: 0;
+}
+
+.About .workshops li{
+list-style: none;
+}
+
 .About h5 {
     margin: 0 auto;
     max-width: 60%;
@@ -20,10 +44,14 @@
 
 .About .about-becca p{
     font-size: 15px;
-    margin: 0 50px;
 }
 
 @media (max-width: 700px) {
+
+    .About .about-row {
+        margin: 0 10px;
+    }
+
     .About .about-becca p{
         margin: 0 10px;
     }

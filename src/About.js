@@ -9,14 +9,13 @@ export default function About() {
         
         <div className="col title-col">
         <div className="section-title">
-           <h3>We Need 
+           <h3>Do You Need 
             <div>A Better</div> 
-            Understanding
+            Understanding?
             </h3>
             </div>
          </div>
         <div className="col title-col">
-       
         <img src="../images/about_undraw.png" className="img-fluid title-img" 
         alt="a person in a wheelchair holds a phone in one hand while raising a comment box above their head"></img>
         </div>
@@ -32,33 +31,46 @@ export default function About() {
             </h4>
 
     </div> 
-    <div className="row align-items-center">
-        <div className="col">
-        <p>A Better Understanding teaches teams how to 
-            <strong>{" "}reconnect within digital work-environments</strong>, 
+    <div className="row align-items-top about-row">
+        <div className="col-sm">
+        <p> A Better Understanding teaches teams how to 
+            <strong>{" "}stay connected across digital work-environments</strong>, 
             empowering employees to<strong>{" "}Mentor-the-Managers</strong>, 
-            and give board-rooms clearer insights on how to 
-            future-proof the company with equitable inclusivity. 
-            <div className="mb-3">
-            <strong>Without the survey-fatigue.</strong>
-            </div>
-            Mentors and Mentees are guided through peer-led discussions on 
-            important leadership skills; Empathy, Taking Accountability, Setting Boundaries, and Privilege, 
-            helping participants get comfortable with being uncomfortable in a 
-            safe, online environment. 
-            
-            Leaders gain A Better Understanding 
-            of perspectives many board-rooms miss out on.
+            and encourage the<strong>{" "}equitable inclusivity{" "}</strong> 
+            business decisions often miss out on.
+            <div className="about-bold">
+            Goodbye survey-fatigue!
+            </div> 
         ​</p>
 </div>
+
         <div className="col">
-       <p>Remote and Hybrid Working Policies are a step in a more inclusive direction, 
-        but if you're concerned with a potential loss in employee interaction and relationship-building, 
+           
+       <p> 
+             A Better Understanding offers a <strong>safe space{" "}</strong> 
+             to build bridges with <strong>vulnerability and friendship{" "}</strong> 
+             with mediated, peer-led discussions about: 
+            <div className="about-bold workshops">
+            <ul>
+            <li>Empathy</li>
+            <li>Taking Accountability</li>
+            <li>Setting Boundaries</li>
+            <li>Privilege</li>
+            </ul>
+            </div>  
         </p>
         </div>
     </div>
+
+    <div>
+    <h5>Do We Have the Time (and Budget...)?</h5>
+    <p>Designed and led by a team of Assistants and Administrators, we know how to create sustainable bridges
+        between employees and their managers. 
+    </p>
+    </div>
+
     <div className="row">
-    <h5>Why Reverse Mentoring is good for you, your employees & your business</h5>
+    <h5>Why Reverse Mentoring* is good for you, your employees & your business</h5>
     <iframe src="https://streamly.video/embed/video/why-reverse-mentoring-is-good-for-you-your-employees-and-your-business" 
     scrolling="no" 
     allowFullScreen={true} 
