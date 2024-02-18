@@ -8,9 +8,12 @@ export default function About() {
     <div className="row title-row align-items-center">
         
         <div className="col title-col">
-        <h3>
-            <div className="section-title">About</div>
-            Reverse Mentoring</h3>
+        <div className="section-title">
+           <h3>We Need 
+            <div>A Better</div> 
+            Understanding
+            </h3>
+            </div>
          </div>
         <div className="col title-col">
        
@@ -19,24 +22,39 @@ export default function About() {
         </div>
     </div>
     <div className="row">
-        <h4>"…rarely can a <strong>response</strong> make something better. 
-                What makes something better is <strong>connection.</strong>"{" "}
-           <a href="https://brenebrown.com/"
+        <h4>"Ask with genuine curiosity, why do YOU think that is?"{" "}
+         <div>  <a href="https://www.instagram.com/a_becca_understanding"
             target="_blank"
             rel="noreferrer"
-            alt="Brené Brown's Website"
-            className="quote-link">Brené Brown</a></h4>
+            alt="Becca Early's Instagram Profile"
+            className="quote-link">a_becca_understanding <i class="fa-brands fa-instagram"></i></a>
+            </div>
+            </h4>
+
     </div> 
     <div className="row align-items-center">
         <div className="col">
-        <p><em>Reversing</em> the role of Mentor​ gives 
-    Senior Leaders the chance to be mentored by Employees on perspectives the board-rooms 
-    are missing out on. 
+        <p>A Better Understanding teaches teams how to 
+            <strong>{" "}reconnect within digital work-environments</strong>, 
+            empowering employees to<strong>{" "}Mentor-the-Managers</strong>, 
+            and give board-rooms clearer insights on how to 
+            future-proof the company with equitable inclusivity. 
+            <div className="mb-3">
+            <strong>Without the survey-fatigue.</strong>
+            </div>
+            Mentors and Mentees are guided through peer-led discussions on 
+            important leadership skills; Empathy, Taking Accountability, Setting Boundaries, and Privilege, 
+            helping participants get comfortable with being uncomfortable in a 
+            safe, online environment. 
+            
+            Leaders gain A Better Understanding 
+            of perspectives many board-rooms miss out on.
         ​</p>
 </div>
         <div className="col">
-        <p>​Reverse Mentoring helps your business harness the power 
-        of human <em>connection</em> in a virtual world...without the survey-fatigue!</p> 
+       <p>Remote and Hybrid Working Policies are a step in a more inclusive direction, 
+        but if you're concerned with a potential loss in employee interaction and relationship-building, 
+        </p>
         </div>
     </div>
     <div className="row">
