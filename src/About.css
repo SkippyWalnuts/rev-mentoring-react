@@ -13,13 +13,12 @@
     margin: 30px auto 0;
     }
 
-.About p {
+.About p, .About .about-standout {
     font-size: 18px;
     line-height: 1.5;
     margin: 0 auto;
     padding: 10px;
 }
-
 
 .About h5 {
     margin: 0 auto 30px;

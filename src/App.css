@@ -59,11 +59,14 @@ h5 {
     text-align: center;
 }
 
-p {
+p, .about-standout {
    color: var(--secondary-color);
    font-family: 'Quicksand', sans-serif;
-   padding: 10px 25px;  
    text-align: left;
+}
+
+p {
+ padding: 10px 25px;    
 }
 
 button {
