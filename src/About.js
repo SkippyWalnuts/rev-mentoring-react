@@ -26,7 +26,7 @@ export default function About() {
             target="_blank"
             rel="noreferrer"
             alt="Becca Early's Instagram Profile"
-            className="quote-link">a_becca_understanding <i class="fa-brands fa-instagram"></i></a>
+            className="quote-link">a_becca_understanding <i className="fa-brands fa-instagram"></i></a>
             </div>
             </h4>
 
@@ -37,20 +37,22 @@ export default function About() {
 
             A Better Understanding teaches teams how to 
             <strong>{" "}stay connected across digital work-environments</strong>, 
-            empowering employees to<strong>{" "}Mentor-the-Managers{" "}</strong>(i.e. 'reverse' mentoring), 
-            and encourage <strong>{" "}equitably inclusive decision-making{" "}</strong>
-            in company board-rooms.
-            <div className="about-bold">
-            Goodbye, survey-fatigue!
+            empowering employees to<strong>{" "}Mentor-the-Managers{" "}</strong>(using 'reverse' mentoring), 
+            and encouraging <strong>{" "}more equitable, inclusive decision-making{" "}</strong>
+            into company board-rooms.
+        </p>
+            <div className="about-bold about-standout mb-2">
+            Get to know your colleagues, without the survey-fatigue!
             </div> 
-        ​</p>
+        
 </div>
         <div className="col mb-3">
             <p> 
              A Better Understanding offers a <strong>safe space{" "}</strong> 
              to learn how to lead with <strong>vulnerability and friendship</strong>, 
-             assisted by mediated, peer-led discussion topics throughout the year: 
-            <div className="about-bold workshops">
+             reinforced by mediated, peer-led discussion topics on: 
+            </p>
+            <div className="about-bold about-standout">
             <ul>
             <li>Empathy</li>
             <li>Taking Accountability</li>
@@ -58,7 +60,7 @@ export default function About() {
             <li>Privilege</li>
             </ul>
             </div>  
-        </p>
+        
         </div>
     </div>
 
@@ -71,23 +73,32 @@ export default function About() {
        <br />
        <br />
     <strong>A Better Understanding Consultation{" "}</strong>includes:
-    <br />
-    <ul>
-    <li>1 x Consultant Advisor</li>
-     <li>5 Mentors - 5 Mentees</li>
-    </ul>
-    
-    Our Consultant Advisors have extensive Assistant and Administrator experience, including qualifications in 
-    counselling, psychology and Mental Health First Aid. Each Advisor brings their own 
-    perspective during group discussions, aids in matching Mentors to Mentees, and can 
-    speak confidently with participants, regardless of seniority. 
-    <br />
-    <br />   
-    <strong>The Power of The PA Training{" "}</strong> increases the chances for long-term success, 
-    regardless of budget cuts! Give your own Assistants and Administrators the opportunity to facilitate alongside 
-    a Consultant Advisor, taking 'tailor-made' to a whole new level. Keep the momentum going with annual refreshers 
-    and consider it like DEI First Aid; wouldn't it be great to have trained Advisors in every business? 
     </p>
+    <div className="about-standout">
+    <ul>
+    <li>1 x Consultant Advisor = 5 Matches/10 Participants</li>
+     <li>5 - 20 Matches/10 - 40 Participants</li>
+     <li>1 x 4min Application Form</li>
+     <li>1 x 1hr Introduction & Briefing Call</li>
+     <li>1 x 1hr Mentor Conversations (Min. 3) </li>
+     <li>3 x 1hr Annual Mentor Guided Discussions</li>
+     <li>3 x 1hr Annual Mentee Guided Discussions</li>
+     <li>1 x 1hr Beyond A Better Understanding</li>
+     <li>Time Commitment  = <strong>5hr 4min - 11hr 4min</strong></li>
+    </ul>
+    </div>
+    <p>
+    Our Consultant Advisors have extensive Assistant and Administrator experience, including qualifications in 
+    counselling, psychology and Mental Health First Aid. Each Advisor brings their<strong>{" "}own 
+    perspective</strong> during group discussions, matches Mentors to Mentees, and commits to
+    <strong>{" "}supporting all participants equally</strong>, no matter the seniority within the business. 
+    <br />
+    <br />
+    <strong>The Power of The PA Training{" "}</strong> increases the chances for long-term success, 
+    <strong>{" "}regardless of budget cuts</strong>! Give up to 3 of your company Assistants and Administrators the opportunity to facilitate 
+    alongside a Consultant Advisor, taking 'tailor-made' to a whole new level. Keep the momentum going with annual 
+    refreshers and <strong>consider it to be like DEI First Aid</strong>; we hope to have trained Advisors in every business, someday...
+</p> 
     </div>
 </div>   
 <span id="reviews"></span>   
