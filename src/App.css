@@ -90,6 +90,14 @@ a {
     transition: all ease-in 12ms;
 }
 
+ul {
+    padding: 0;
+}
+
+li{
+list-style: none;
+}
+
 .quote-link, .ReviewsText a {
     color: var(--secondary-color)
 }
