@@ -21,7 +21,8 @@ export default function About() {
         </div>
     </div>
     <div className="row section-quote">
-        <p>"...ask with genuine curiosity, why do YOU think that is?"{" "}
+        <p>Ask with genuine curiosity, "why do YOU think that is?"
+            <br/>
            <a href="https://www.instagram.com/a_becca_understanding"
             target="_blank"
             rel="noreferrer"

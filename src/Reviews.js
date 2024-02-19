@@ -44,7 +44,16 @@ if (loaded) {
             </div> 
 
             <div className="row">
-                <p>How do we know A Better Understanding actually works? We let word-of-mouth do the talking, for us!
+                <p>How do we know A Better Understanding actually works? 
+ </p>                   <div className="text-standout"> Let word-of-mouth do the talking!
+                   </div> 
+  <p>
+                    Participant reviews from digital marketing
+                    company,<a href="https://www.group.dentsu.com/en/" target="_blank"
+                    alt="dentsu Homepage" rel="noreferrer" className="">{" "}dentsu</a> secured the doubling the number of participant numbers by the second year. 
+                    <br />
+                    In fact, we needed to wait-list over 30 Mentor applicants due to the popularity amongst 
+                    employees, feeling they were being listened to in a whole new way by business leaders. 
                 </p>
             </div>
         

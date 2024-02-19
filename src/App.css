@@ -110,11 +110,11 @@ list-style: none;
     font-size: 15px;
 }
 
-.quote-link, .ReviewsText a {
+.quote-link, a {
     color: var(--secondary-color)
 }
 
-.quote-link:hover, .ReviewsText a:hover {
+.quote-link:hover, a:hover {
     font-weight: bolder;
 }
 
