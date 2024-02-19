@@ -19,6 +19,7 @@ return (
 <ReviewsText contents={props.title}/>
     </div>
 </div>
+
         </div>
     )
 }

@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import PriceGuide from "./PriceGuide";
 import ReviewsSection from "./ReviewsSection";
 import "./Reviews.css";
 
@@ -52,7 +53,10 @@ if (loaded) {
             <button value ="Mentee Reviews" title="Mentee Reviews" onClick={handleClick}>View Mentee Reviews​</button>
             </div>
             </div>
-        <ReviewsSection title={section} />      
+        <ReviewsSection title={section} /> 
+        <div className="row">
+        <PriceGuide />     
+        </div>
         <span id="Reviews"></span>
         </div>
     );

@@ -1,14 +1,19 @@
-.AboutButton button {
+.PriceGuide {
+  padding: 0;
+}
+
+.PriceGuide button {
     display: block;
     margin: 20px auto 5px;
+    
     padding: 10px 15px 12px 25px;
   }
 
-.AboutButton a {
+.PriceGuide a {
     color: var(--primary-color);
 }
 
-.AboutButton .price-guide-icon {
+.PriceGuide .price-guide-icon {
 font-size: 16px;
 padding-left: 10px;
 }

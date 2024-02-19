@@ -1,5 +1,5 @@
 import React from "react";
-import AboutButton from "./AboutButton";
+import PriceGuide from "./PriceGuide";
 import "./About.css";
 
 export default function About() {
@@ -104,7 +104,7 @@ export default function About() {
     </div>
 </div>   
 <span id="reviews"></span>   
-<AboutButton />
+<PriceGuide />
 </div>
        
        );

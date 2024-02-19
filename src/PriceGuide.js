@@ -1,10 +1,10 @@
 import React from "react";
-import "./AboutButton.css";
+import "./PriceGuide.css";
 
-export default function AboutButton() {
+export default function PriceGuide() {
     return (
 
-    <div className="AboutButton">
+    <div className="PriceGuide">
       
       <button>
         <a href="mailto:becca.early@outlook.com?subject=A Better Understanding Price Guide Request" 
