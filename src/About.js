@@ -22,12 +22,12 @@ export default function About() {
     </div>
     <div className="row section-quote">
         <p>"...ask with genuine curiosity, why do YOU think that is?"{" "}
-         <div>  <a href="https://www.instagram.com/a_becca_understanding"
+           <a href="https://www.instagram.com/a_becca_understanding"
             target="_blank"
             rel="noreferrer"
             alt="Becca Early's Instagram Profile"
             className="quote-link">a_becca_understanding <i className="fa-brands fa-instagram"></i></a>
-            </div>
+
             </p>
 
     </div> 
@@ -89,7 +89,8 @@ export default function About() {
     perspective</strong> during group discussions, matches Mentors to Mentees, and commits to
     <strong>{" "}supporting all participants equally</strong>, no matter the busines title. 
     <br />
-    <hr />
+    <br />
+    
     <strong>Power of The PA Training{" "}</strong> increases the chances for long-term success, 
     <strong>{" "}regardless of budget cuts</strong>. Give 1 - 3 of your company Assistants and/or Administrators the opportunity to facilitate 
     alongside a Consultant Advisor, taking 'tailor-made' to a whole new level. Keep the momentum going with annual 
