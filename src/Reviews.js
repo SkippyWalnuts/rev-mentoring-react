@@ -44,16 +44,19 @@ if (loaded) {
             </div> 
 
             <div className="row row-margin">
-                <p>How do we know A Better Understanding actually works? 
- </p>                   <div className="text-standout"> Let word-of-mouth do the talking!
-                   </div> 
-  <p>
-                    Participant reviews from digital marketing
-                    company,<a href="https://www.group.dentsu.com/en/" target="_blank"
-                    alt="dentsu Homepage" rel="noreferrer" className="">{" "}dentsu</a> secured the doubling the number of participant numbers by the second year. 
+                <p>How do we know A Better Understanding actually works? </p>
+                    <div className="text-standout"> 
+                    Word-of-mouth does all the talking!
+                   </div>
+                   <p> 
+                    <strong>Participant reviews and attendance scores</strong> at Global digital marketing company,<a href="https://www.group.dentsu.com/en/" target="_blank"
+                    alt="dentsu Homepage" rel="noreferrer" className="">{" "}
+                    dentsu
+                    </a>, helped participant numbers <strong>double</strong> by the second year's cohort.
+                    <br /> 
                     <br />
-                    In fact, we needed to wait-list over 30 Mentor applicants due to the popularity amongst 
-                    employees, feeling they were being listened to in a whole new way by business leaders. 
+                    In fact, 30+ Mentor applicants needed to be waitlisted, as there weren't enough Mentees to 
+                    be matched with, regardless of the increase in attendees across multiple service lines (and locations).  
                 </p>
             </div>
         

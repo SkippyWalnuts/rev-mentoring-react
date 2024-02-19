@@ -70,7 +70,10 @@ p, .text-standout {
 }
 
 p {
- padding: 10px 25px;    
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 0 auto;
+    padding: 10px;
 }
 
 button {
@@ -124,6 +127,7 @@ list-style: none;
 
 .text-standout {
     font-size: 18px;
+    font-weight: bold;
     line-height: 1.5;
     margin: 0 auto;
     padding: 10px;
