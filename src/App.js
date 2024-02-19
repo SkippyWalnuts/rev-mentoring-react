@@ -12,7 +12,6 @@ function App() {
 <Hero />
 <About />
 <Reviews defaultSection="Mentor Reviews" />
-
     </div>
   );
 }
