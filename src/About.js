@@ -32,7 +32,7 @@ export default function About() {
             </p>
 
     </div> 
-    <div className="row about-row">
+    <div className="row row-margin">
         <div className="col-sm">
         <p> 
 
@@ -42,7 +42,7 @@ export default function About() {
             and encourage<strong>{" "}more equitable, inclusive decision-making{" "}</strong>
             to be made in company board-rooms.
         </p>
-            <div className="about-bold text-standout mb-2">
+            <div className="about-bold text-standout">
             Get to know your business, without the survey-fatigue!
             </div> 
         
@@ -65,7 +65,7 @@ export default function About() {
         </div>
     </div>
 
-    <div className="row about-row">
+    <div className="row row-margin">
     <h5>Do You Have the Time <div>(and Budget...)?</div></h5>
     <p>A Better Understanding uses <strong>Power of The PA{" "}</strong>
     to create <strong>sustainable</strong> bridges between employees and their managers. Designed 
@@ -80,7 +80,7 @@ export default function About() {
     <li>1 - 4 Consultant Advisor(s)</li>
      <li>5 - 20 Matches/10 - 40 Participants</li>
      <li>12 Month Commitment</li>
-    <li><strong>5 - 11hr Successful Engagement</strong></li>
+    <li><strong>5 - 11hr 'Successful' Engagement</strong></li>
     </ul>
     </div>
     <p>
@@ -95,11 +95,12 @@ export default function About() {
     <strong>Power of The PA Training{" "}</strong> increases the chances for long-term success, 
     <strong>{" "}regardless of budget cuts</strong>. Give 1 - 3 of your company Assistants and/or Administrators the opportunity to facilitate 
     alongside a Consultant Advisor, taking 'tailor-made' to a whole new level. Keep the momentum going with annual 
-    refreshers, and consider this along the lines of<strong>{" "}DEI First-Aid</strong>; we dream of putting trained Advisors in every industry imaginable...
+    refreshers, and consider this along the lines of<strong>{" "}DEI First-Aid</strong>; we dream of training Advisors in every industry imaginable...
 </p> 
 <div className="text-standout consultation-details">
     <ul>
-     <li><strong>14hr+ Successful Training</strong></li>
+    <li>12 Month Commitment</li>
+     <li><strong>14hr+ 'Successful' Training</strong></li>
      <li>Annual Refresher Training (optional)</li>
     </ul>
     </div>

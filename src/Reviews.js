@@ -43,7 +43,7 @@ if (loaded) {
             
             </div> 
 
-            <div className="row">
+            <div className="row row-margin">
                 <p>How do we know A Better Understanding actually works? 
  </p>                   <div className="text-standout"> Let word-of-mouth do the talking!
                    </div> 
@@ -60,10 +60,10 @@ if (loaded) {
         
         <div className="row reviews-buttons">
             <div className="col-md">
-                <button value="Mentor Reviews" title="Mentor Reviews" onClick={handleClick}>View Mentor Reviews <i class="fa-solid fa-arrow-down"></i>​</button>
+                <button value="Mentor Reviews" title="Mentor Reviews" onClick={handleClick}>View Mentor Reviews <i className="fa-solid fa-arrow-down"></i>​</button>
             </div>
             <div className="col">
-            <button value ="Mentee Reviews" title="Mentee Reviews" onClick={handleClick}>View Mentee Reviews <i class="fa-solid fa-arrow-down"></i>​</button>
+            <button value ="Mentee Reviews" title="Mentee Reviews" onClick={handleClick}>View Mentee Reviews <i className="fa-solid fa-arrow-down"></i>​</button>
             </div>
             </div>
         <ReviewsSection title={section} /> 

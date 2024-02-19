@@ -106,6 +106,10 @@ li{
 list-style: none;
 }
 
+.row-margin {
+    margin: 0 100px;
+}
+
 .quote-link {
     font-size: 15px;
 }
@@ -139,6 +143,10 @@ list-style: none;
     
     button {
         font-size: 11px;
+    }
+    
+    .row-margin {
+        margin: 0 10px;
     }
 
 

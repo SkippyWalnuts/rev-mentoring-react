@@ -71,7 +71,7 @@ export default function Hero() {
         </div>
         <div className="col">
             <div className="contact-button">
-        <a href="mailto:becca.early@outlook.com?subject=Reverse Mentoring Query" title="Email Becca Early with Reverse Mentoring queries"><button>Contact</button></a>
+        <a href="mailto:becca.early@outlook.com?subject=A Better Understanding Enquiry" title="Email Becca Early with any of your A Better Understanding questions or comments"><button>Contact</button></a>
         </div>
         </div>
          </div>
