@@ -54,9 +54,7 @@ if (loaded) {
             </div>
             </div>
         <ReviewsSection title={section} /> 
-        <div className="row">
-        <PriceGuide />     
-        </div>
+
         <span id="Reviews"></span>
         </div>
     );
