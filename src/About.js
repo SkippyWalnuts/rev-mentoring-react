@@ -71,7 +71,6 @@ export default function About() {
     appreciated as key to success. 
        <br />
        <br />
-       <hr />
     <strong>A Better Understanding Consultation{" "}</strong>includes:
     </p>
     <div className="about-standout consultation-details">
