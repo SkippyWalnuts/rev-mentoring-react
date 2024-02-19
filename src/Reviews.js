@@ -27,19 +27,20 @@ if (loaded) {
                 alt="a person holds their speech bubble and stands to the right of a larger speech bubble"></img>
                 </div>
                 <div className="col title-col">
-                <h3>
-                    <div className="section-title">Reviews</div>
-                    Measuring Success</h3>
+                <h3>Reviews</h3>
+                    <h4>Measuring Success</h4>
 
                  </div>
             </div>
-            <div className="row">
-        <h4>"Diversity is the mix. <strong>Inclusion is 
+            <div className="row section-quote">
+            <p>"Diversity is the mix. <strong>Inclusion is 
              making the mix work.</strong>" <a href="https://inclusion-paradox.com/site/about-andres-tapia/"
             target="_blank"
             rel="noreferrer"
             alt="Andrés Tapia Inclusion Paradox"
-            className="quote-link">Andrés Tapia</a>​</h4>
+            className="quote-link">Andrés Tapia</a>
+            ​</p>
+            
             </div> 
         </div>
         

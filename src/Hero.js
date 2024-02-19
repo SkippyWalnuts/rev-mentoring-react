@@ -20,7 +20,7 @@ export default function Hero() {
         </div>
         <div className="row">
         <h2>
-        Building bridges between employees and their managers
+        Building bridges between employees and business leaders
         </h2>
         </div>
         <div className="row">

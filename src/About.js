@@ -8,27 +8,26 @@ export default function About() {
     <div className="row title-row align-items-center">
         
         <div className="col title-col">
-        <div className="section-title">
-           <h3>Do You Need 
-            <div>A Better</div> 
-            Understanding?
-            </h3>
-            </div>
+                   <h3>About</h3>
+           <h4> A Better
+            Understanding</h4>
+            
+         
          </div>
         <div className="col title-col">
         <img src="../images/about_undraw.png" className="img-fluid title-img" 
         alt="a person in a wheelchair holds a phone in one hand while raising a comment box above their head"></img>
         </div>
     </div>
-    <div className="row">
-        <h4>"...ask with genuine curiosity, why do YOU think that is?"{" "}
+    <div className="row section-quote">
+        <p>"...ask with genuine curiosity, why do YOU think that is?"{" "}
          <div>  <a href="https://www.instagram.com/a_becca_understanding"
             target="_blank"
             rel="noreferrer"
             alt="Becca Early's Instagram Profile"
             className="quote-link">a_becca_understanding <i className="fa-brands fa-instagram"></i></a>
             </div>
-            </h4>
+            </p>
 
     </div> 
     <div className="row about-row">
@@ -66,39 +65,42 @@ export default function About() {
 
     <div className="row about-row">
     <h5>Do You Have the Time <div>(and Budget...)?</div></h5>
-    <p>A Better Understanding uses <strong>The Power of The PA{" "}</strong>
+    <p>A Better Understanding uses <strong>Power of The PA{" "}</strong>
     to create <strong>sustainable</strong> bridges between employees and their managers. Designed 
     and led by a team of Personal and Executive Assistants, <strong>scheduling efficiency</strong> is 
-    key to success. 
+    appreciated as key to success. 
        <br />
        <br />
+       <hr />
     <strong>A Better Understanding Consultation{" "}</strong>includes:
     </p>
     <div className="about-standout consultation-details">
     <ul>
     <li>1 - 4 Consultant Advisor(s)</li>
      <li>5 - 20 Matches/10 - 40 Participants</li>
-     <li>Application & Matchmaking</li>
-     <li>Introduction & Briefing Call</li>
-     <li>Mentor Conversations (Min. 3) </li>
-     <li>3 x Mentor Guided Discussions</li>
-     <li>3 x Mentee Guided Discussions</li>
-     <li>Beyond A Better Understanding</li>
-     <li>Time Commitment  = <strong>5hr 4min - 11hr 4min</strong></li>
+     <li>12 Month Commitment</li>
+    <li><strong>5 - 11hr Successful Engagement</strong></li>
     </ul>
     </div>
     <p>
-    Our Consultant Advisors have extensive Assistant and Administrator experience, including qualifications in 
+        
+    Consultant Advisors have extensive Assistant and Administrator experience, including qualifications in 
     counselling, psychology and Mental Health First Aid. Each Advisor brings their<strong>{" "}own 
     perspective</strong> during group discussions, matches Mentors to Mentees, and commits to
-    <strong>{" "}supporting all participants equally</strong>, no matter the seniority within the business. 
+    <strong>{" "}supporting all participants equally</strong>, no matter the busines title. 
     <br />
-    <br />
-    <strong>The Power of The PA Training{" "}</strong> increases the chances for long-term success, 
+    <hr />
+    <strong>Power of The PA Training{" "}</strong> increases the chances for long-term success, 
     <strong>{" "}regardless of budget cuts</strong>! Give 1 - 3 of your company Assistants and Administrators the opportunity to facilitate 
     alongside a Consultant Advisor, taking 'tailor-made' to a whole new level. Keep the momentum going with annual 
-    refreshers and <strong>consider it to be like DEI First Aid</strong>; we dream of training Advisors in every industry imaginable.
+    refreshers as though <strong>this is DEI First Aid</strong>; we dream of training Advisors in every industry imaginable...
 </p> 
+<div className="about-standout consultation-details">
+    <ul>
+     <li><strong>14hr+ Successful Training</strong></li>
+     <li>Annual Refresher Training (optional)</li>
+    </ul>
+    </div>
     </div>
 </div>   
 <span id="reviews"></span>   
