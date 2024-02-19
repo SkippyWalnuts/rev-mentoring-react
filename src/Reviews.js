@@ -28,7 +28,7 @@ if (loaded) {
                 </div>
                 <div className="col title-col">
                 <h3>Reviews</h3>
-                    <h4>Measuring Success</h4>
+                    <h4>How Success is Measured</h4>
 
                  </div>
             </div>
@@ -42,18 +42,23 @@ if (loaded) {
             ​</p>
             
             </div> 
-        </div>
+
+            <div className="row">
+                <p>How do we know A Better Understanding actually works? We let word-of-mouth do the talking, for us!
+                </p>
+            </div>
+        
         
         <div className="row reviews-buttons">
             <div className="col-md">
-                <button value="Mentor Reviews" title="Mentor Reviews" onClick={handleClick}>View Mentor Reviews​</button>
+                <button value="Mentor Reviews" title="Mentor Reviews" onClick={handleClick}>View Mentor Reviews <i class="fa-solid fa-arrow-down"></i>​</button>
             </div>
             <div className="col">
-            <button value ="Mentee Reviews" title="Mentee Reviews" onClick={handleClick}>View Mentee Reviews​</button>
+            <button value ="Mentee Reviews" title="Mentee Reviews" onClick={handleClick}>View Mentee Reviews <i class="fa-solid fa-arrow-down"></i>​</button>
             </div>
             </div>
         <ReviewsSection title={section} /> 
-
+        </div>
         <span id="Reviews"></span>
         </div>
     );
