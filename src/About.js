@@ -8,9 +8,9 @@ export default function About() {
     <div className="row title-row align-items-center">
         
         <div className="col title-col">
-                   <h3>About</h3>
+                   <h3>Need</h3>
            <h4> A Better
-            Understanding</h4>
+            Understanding?</h4>
             
          
          </div>
@@ -37,11 +37,11 @@ export default function About() {
             A Better Understanding teaches teams how to 
             <strong>{" "}stay connected across digital work-environments</strong>, 
             empowering employees to<strong>{" "}Mentor-the-Managers{" "}</strong>(using 'reverse' mentoring), 
-            and encouraging <strong>{" "}more equitable, inclusive decision-making{" "}</strong>
-            into company board-rooms.
+            and encourage<strong>{" "}more equitable, inclusive decision-making{" "}</strong>
+            to be made in company board-rooms.
         </p>
             <div className="about-bold about-standout mb-2">
-            Get to know your colleagues, without the survey-fatigue!
+            Get to know your business, without the survey-fatigue!
             </div> 
         
 </div>
@@ -90,9 +90,9 @@ export default function About() {
     <br />
     <hr />
     <strong>Power of The PA Training{" "}</strong> increases the chances for long-term success, 
-    <strong>{" "}regardless of budget cuts</strong>! Give 1 - 3 of your company Assistants and Administrators the opportunity to facilitate 
+    <strong>{" "}regardless of budget cuts</strong>! Give 1 - 3 of your company Assistants and/or Administrators the opportunity to facilitate 
     alongside a Consultant Advisor, taking 'tailor-made' to a whole new level. Keep the momentum going with annual 
-    refreshers as though <strong>this is DEI First Aid</strong>; we dream of training Advisors in every industry imaginable...
+    refreshers, and consider this along the lines of<strong>{" "}DEI First-Aid</strong>; we dream of putting trained Advisors in every industry imaginable...
 </p> 
 <div className="about-standout consultation-details">
     <ul>
