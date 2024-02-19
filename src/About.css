@@ -13,7 +13,7 @@
     margin: 30px auto 0;
     }
 
-.About p, .About .about-standout {
+.About p{
     font-size: 18px;
     line-height: 1.5;
     margin: 0 auto;

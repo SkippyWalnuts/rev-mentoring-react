@@ -41,7 +41,7 @@ export default function About() {
             and encourage<strong>{" "}more equitable, inclusive decision-making{" "}</strong>
             to be made in company board-rooms.
         </p>
-            <div className="about-bold about-standout mb-2">
+            <div className="about-bold text-standout mb-2">
             Get to know your business, without the survey-fatigue!
             </div> 
         
@@ -52,7 +52,7 @@ export default function About() {
              to learn how to lead with <strong>vulnerability and friendship</strong>, 
              reinforced by mediated, peer-led discussion topics on: 
             </p>
-            <div className="about-bold about-standout">
+            <div className="about-bold text-standout">
             <ul>
             <li>Empathy</li>
             <li>Taking Accountability</li>
@@ -74,7 +74,7 @@ export default function About() {
        <br />
     <strong>A Better Understanding Consultation{" "}</strong>includes:
     </p>
-    <div className="about-standout consultation-details">
+    <div className="text-standout consultation-details">
     <ul>
     <li>1 - 4 Consultant Advisor(s)</li>
      <li>5 - 20 Matches/10 - 40 Participants</li>
@@ -96,7 +96,7 @@ export default function About() {
     alongside a Consultant Advisor, taking 'tailor-made' to a whole new level. Keep the momentum going with annual 
     refreshers, and consider this along the lines of<strong>{" "}DEI First-Aid</strong>; we dream of putting trained Advisors in every industry imaginable...
 </p> 
-<div className="about-standout consultation-details">
+<div className="text-standout consultation-details">
     <ul>
      <li><strong>14hr+ Successful Training</strong></li>
      <li>Annual Refresher Training (optional)</li>
