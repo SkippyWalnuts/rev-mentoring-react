@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import PriceGuide from "./PriceGuide";
 import ReviewsSection from "./ReviewsSection";
 import "./Reviews.css";
 
