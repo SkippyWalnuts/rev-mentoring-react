@@ -1,4 +1,5 @@
 import React from "react";
+import AboutButton from "./AboutButton";
 import "./About.css";
 
 export default function About() {
@@ -84,13 +85,13 @@ export default function About() {
     <p>
         
     Consultant Advisors have extensive Assistant and Administrator experience, including qualifications in 
-    counselling, psychology and Mental Health First Aid. Each Advisor brings their<strong>{" "}own 
+    counselling, psychology and Mental Health support. Each Advisor brings their<strong>{" "}own 
     perspective</strong> during group discussions, matches Mentors to Mentees, and commits to
     <strong>{" "}supporting all participants equally</strong>, no matter the busines title. 
     <br />
     <hr />
     <strong>Power of The PA Training{" "}</strong> increases the chances for long-term success, 
-    <strong>{" "}regardless of budget cuts</strong>! Give 1 - 3 of your company Assistants and/or Administrators the opportunity to facilitate 
+    <strong>{" "}regardless of budget cuts</strong>. Give 1 - 3 of your company Assistants and/or Administrators the opportunity to facilitate 
     alongside a Consultant Advisor, taking 'tailor-made' to a whole new level. Keep the momentum going with annual 
     refreshers, and consider this along the lines of<strong>{" "}DEI First-Aid</strong>; we dream of putting trained Advisors in every industry imaginable...
 </p> 
@@ -103,6 +104,7 @@ export default function About() {
     </div>
 </div>   
 <span id="reviews"></span>   
+<AboutButton />
 </div>
        
        );
