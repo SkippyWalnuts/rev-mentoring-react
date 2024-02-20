@@ -33,6 +33,7 @@
     color: var(--secondary-color);
     font-size: 18px;
     font-weight: 500;
+    text-align: left;
     }
 
 .Hero .ratings {
@@ -42,7 +43,7 @@
     font-weight: 800;
     margin: 5px auto;
     text-transform: uppercase;
-    text-align: center;
+    text-align: left;
 }
 
 .contact-button {
