@@ -49,14 +49,14 @@ if (loaded) {
                     Word-of-mouth does all the talking!
                    </div>
                    <p> 
-                    <strong>Participant reviews and attendance scores</strong> at Global digital marketing company,<a href="https://www.group.dentsu.com/en/" target="_blank"
+                    5-star reviews and (impressively) high attendance scores
+                    from <strong>the busiest of employees </strong> at Global digital marketing company,<a href="https://www.group.dentsu.com/en/" target="_blank"
                     alt="dentsu Homepage" rel="noreferrer" className="">{" "}
                     dentsu
-                    </a>, helped participant numbers <strong>double</strong> by the second year's cohort.
+                    </a>, meant participant numbers <strong>doubled</strong> by the second year.
                     <br /> 
                     <br />
-                    In fact, 30+ Mentor applicants needed to be waitlisted, as there weren't enough Mentees to 
-                    be matched with, regardless of the increase in attendees across multiple service lines (and locations).  
+                    In fact, 30+ Mentor applicants were added to the waitlist, spanning multiple service lines (and locations).  
                 </p>
             </div>
         

@@ -97,7 +97,7 @@ export default function About() {
 </p> 
 <div className="text-standout consultation-details">
     <ul>
-    <li>12 Month Commitment</li>
+    <li>12+ Month Commitment</li>
      <li><strong>14hr+ 'Successful' Training</strong></li>
      <li>Annual Refresher Training (optional)</li>
     </ul>
