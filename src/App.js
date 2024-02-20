@@ -12,18 +12,18 @@ function App() {
 <Hero />
 <About />
 <Reviews defaultSection="Mentor Reviews" />
-<div class="container container-fluid footer-container fixed-bottom">
-<div class="d-flex justify-content-center">
+<div className="container container-fluid footer-container fixed-bottom">
+<div className="d-flex justify-content-center">
   <a href="https://www.linkedin.com/in/becca-early/" 
   target="_blank"
   rel="noreferrer"
   alt="Becca Early, Reverse Mentor Consultant, LinkedIn Profile">
-    <i class="fa-brands fa-linkedin"></i></a>
+    <i className="fa-brands fa-linkedin"></i></a>
 <p>A Better Understanding - Intellectual Property (IP) since 2022</p>
 <a href="https://www.instagram.com/a_becca_understanding" 
 target="_blank"
 rel="noreferrer"
-alt="Becca Early AKA a-becca-understanding, Reverse Mentor Consultant, Instagram Profile"><i class="fa-brands fa-instagram"></i></a>
+alt="Becca Early's Instagram profile, a_becca_understanding"><i className="fa-brands fa-instagram"></i></a>
 </div>
 </div>
     </div>
