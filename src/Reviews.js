@@ -56,7 +56,7 @@ if (loaded) {
                     </a>, saw participant numbers <strong>double</strong> by the second year.
                     <br /> 
                     <br />
-                    In fact, 30+ Mentor applicants were added to the waitlist, spanning multiple service lines (and locations).  
+                    In fact, 30+ Mentor applicants needed to be waitlisted, spanning multiple service lines (and locations).  
                 </p>
             </div>
         
