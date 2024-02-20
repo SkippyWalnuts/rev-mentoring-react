@@ -135,14 +135,16 @@ list-style: none;
 
 .footer-container {
     border-top: 5px solid white;
-    background-color: #f79d44;
+    background-color: var(--secondary-color);
+    border-top: solid 5px var(--accent-color);
+    font-family: 'Carlito', sans-serif;
     max-width: none;
     padding: 10px; 
     text-align: center;
 }
 
 .footer-container a, .footer-container p{
-    color: white;
+    color: var(--accent-color);
 }
 
 .footer-container i {
