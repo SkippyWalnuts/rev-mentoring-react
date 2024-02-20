@@ -61,19 +61,17 @@ export default function About() {
             <li>Privilege</li>
             </ul>
             </div>  
-        
+            <p> A Better Understanding uses <strong>Power of The PA{" "}</strong>
+            to create <strong>sustainable</strong> bridges between employees and their managers. Designed 
+            and led by a team of Personal and Executive Assistants, <strong>scheduling efficiency</strong> is 
+            key to success. 
+            </p>  
         </div>
     </div>
 
     <div className="row row-margin">
     <h5>Do You Have the Time <div>(and Budget...)?</div></h5>
-    <p>A Better Understanding uses <strong>Power of The PA{" "}</strong>
-    to create <strong>sustainable</strong> bridges between employees and their managers. Designed 
-    and led by a team of Personal and Executive Assistants, <strong>scheduling efficiency</strong> is 
-    appreciated as key to success. 
-       <br />
-       <br />
-    <strong>A Better Understanding Consultation{" "}</strong>includes:
+    <p><strong>A Better Understanding Consultation{" "}</strong>includes:
     </p>
     <div className="text-standout consultation-details">
     <ul>
