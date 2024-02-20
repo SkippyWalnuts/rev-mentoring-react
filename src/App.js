@@ -19,7 +19,7 @@ function App() {
   rel="noreferrer"
   alt="Becca Early, Reverse Mentor Consultant, LinkedIn Profile">
     <i class="fa-brands fa-linkedin"></i></a>
-<p>A Better Understanding 2022</p>
+<p>A Better Understanding - Intellectual Property (IP) since 2022</p>
 <a href="https://www.instagram.com/a_becca_understanding" 
 target="_blank"
 rel="noreferrer"
