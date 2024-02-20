@@ -61,12 +61,12 @@ export default function About() {
             <li>Privilege</li>
             </ul>
             </div>  
-            <p> A Better Understanding uses <strong>Power of The PA{" "}</strong>
+        </div>
+        <p> A Better Understanding uses <strong>Power of The PA{" "}</strong>
             to create <strong>sustainable</strong> bridges between employees and their managers. Designed 
             and led by a team of Personal and Executive Assistants, <strong>scheduling efficiency</strong> is 
             key to success. 
             </p>  
-        </div>
     </div>
 
     <div className="row row-margin">
