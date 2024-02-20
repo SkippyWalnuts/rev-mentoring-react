@@ -49,6 +49,7 @@ h4 {
    color: var(--secondary-color);
    font-family: 'Quicksand', sans-serif;
    font-size: 20px;
+   margin-bottom: 10px;
    padding: 12px;
    text-align: center;
 }
@@ -115,7 +116,7 @@ list-style: none;
 
 .quote-link {
     font-size: 15px;
-}
+   }
 
 .quote-link, a {
     color: var(--secondary-color)
