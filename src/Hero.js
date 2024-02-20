@@ -76,7 +76,7 @@ export default function Hero() {
         </div>
          </div>
          <span id="about"></span>
-         <p>*22 participants, dentsu International, Oct 2022</p>
+         <p>*dentsu International, Oct 2022</p>
   </div>
     );
 }
