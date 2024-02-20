@@ -53,7 +53,7 @@ if (loaded) {
                     from <strong>the busiest of employees </strong> at Global digital marketing company,<a href="https://www.group.dentsu.com/en/" target="_blank"
                     alt="dentsu Homepage" rel="noreferrer" className="">{" "}
                     dentsu
-                    </a>, meant participant numbers <strong>doubled</strong> by the second year.
+                    </a>, saw participant numbers <strong>double</strong> by the second year.
                     <br /> 
                     <br />
                     In fact, 30+ Mentor applicants were added to the waitlist, spanning multiple service lines (and locations).  
