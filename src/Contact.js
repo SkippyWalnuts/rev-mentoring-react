@@ -1,16 +1,16 @@
 import React from "react";
-import "./PriceGuide.css";
+import "./Contact.css";
 
-export default function PriceGuide() {
+export default function Contact() {
     return (
 
-    <div className="PriceGuide">
+    <div className="Contact">
       
       <button>
         <a href="mailto:becca.early@outlook.com?subject=A Better Understanding Price Guide Request" 
         title="Email Becca Early to request a price guide for A Better Understanding" 
-        className="price-guide-email">
-            Request A Price Guide<span className="price-guide-icon"><i className="fa-regular fa-paper-plane"></i></span></a></button>
+        className="contact-email">
+            Request A Price Guide<span className="contact-icon"><i className="fa-regular fa-paper-plane"></i></span></a></button>
     
       </div>)
         ;

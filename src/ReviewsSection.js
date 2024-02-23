@@ -1,5 +1,5 @@
 import React from "react";
-import PriceGuide from "./PriceGuide";
+import Contact from "./Contact";
 import ReviewsText from "./ReviewsText";
 import "./ReviewsSection.css";
 
@@ -20,7 +20,7 @@ return (
 <ReviewsText contents={props.title}/>
     </div>
 
-        <PriceGuide />     
+        <Contact />     
 
         </div>
 

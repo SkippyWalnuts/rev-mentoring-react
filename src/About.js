@@ -1,5 +1,5 @@
 import React from "react";
-import PriceGuide from "./PriceGuide";
+import PriceGuide from "./Contact";
 import "./About.css";
 
 export default function About() {

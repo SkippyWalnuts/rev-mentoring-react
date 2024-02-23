@@ -1,18 +1,18 @@
-.PriceGuide {
+.Contact {
   padding: 0;
 }
 
-.PriceGuide button {
+.Contact button {
     display: block;
     margin: 20px auto 5px;
     padding: 10px 15px 12px 25px;
   }
 
-.PriceGuide a {
+.Contact a {
     color: var(--primary-color);
 }
 
-.PriceGuide .price-guide-icon {
+.Contact .contact-icon {
 font-size: 16px;
 padding-left: 10px;
 }
