@@ -88,7 +88,7 @@ export default function About() {
     Consultant Advisors have extensive Assistant and Administrator experience, including qualifications in 
     counselling, psychology and Mental Health support. Each Advisor brings their<strong>{" "}own 
     perspective</strong> during group discussions, matches Mentors to Mentees, and commits to
-    <strong>{" "}supporting all participants equally</strong>, no matter the busines title. 
+    <strong>{" "}supporting all participants equally</strong>, no matter the business title. 
     <br />
     <br />
     
