@@ -58,14 +58,14 @@ h5 {
 p, .text-standout {
    color: var(--secondary-color);
    font-family: 'Quicksand', sans-serif;
-   text-align: left;
-}
+   }
 
 p {
     font-size: 18px;
     line-height: 1.5;
     margin: 0 auto;
     padding: 10px;
+    text-align: left;
 }
 
 button {
@@ -128,12 +128,13 @@ list-style: none;
     font-weight: bolder;
 }
 
-.text-standout {
+.text-standout p {
     font-size: 18px;
     font-weight: bold;
     line-height: 1.5;
     margin: 0 auto;
     padding: 10px;
+    text-align: center;
 }
 
 .footer-container {

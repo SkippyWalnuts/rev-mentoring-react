@@ -32,43 +32,34 @@ export default function About() {
             </p>
 
     </div> 
+
     <div className="row row-margin">
+           <div className="about-bold text-standout">
+        <p> 
+        Connecting employees across increasingly digital work environments, whilst paving the way for equitably inclusive business leaders 
+            </p> 
+            </div>  
         <div className="col-sm">
         <p> 
-
-            A Better Understanding teaches teams how to 
-            <strong>{" "}stay connected across digital work-environments</strong>, 
-            empowering employees to<strong>{" "}Mentor-the-Managers{" "}</strong>(using 'reverse' mentoring), 
-            and encourage<strong>{" "}more equitable, inclusive decision-making{" "}</strong>
-            to be made in company board-rooms.
+        Over 20 years of Personal Assistant (PA) experience left A Better Understanding’s Founder & Advisor, Becca Early, feeling complicit with the lack of attendee diversity of C-Suite board-rooms. Eager to join the fight for Diversity, Equity & Inclusion (DEI) Becca understood why many projects are unsustainable and first cut when budgets tighten: 
+DEI needs Assistants. 
         </p>
-            <div className="about-bold text-standout">
-            Get to know your business, without the survey-fatigue!
-            </div> 
+
         
 </div>
         <div className="col mb-3">
             <p> 
-             A Better Understanding offers a <strong>safe space{" "}</strong> 
-             to learn how to lead with <strong>vulnerability and friendship</strong>, 
-             reinforced by mediated, peer-led discussion topics on: 
+Measuring success with attendance and participant reviews was the only PR necessary; 
+5-star ratings and consistent engagement meant participant numbers doubled by the second year, with many more applicants wait-listed across eager service lines.
+
+A Better Understanding’s framework draws upon Becca’s Power of the PA: time efficiency, an appreciation for simplicity, and the confidence to speak comfortably with anyone, regardless of business titles. After all, who better to create sustainable, budget-friendly bridges between employees than the Assistants already doing so within the busiest of business schedules? 
             </p>
-            <div className="about-bold text-standout">
-            <ul>
-            <li>Empathy</li>
-            <li>Taking Accountability</li>
-            <li>Setting Boundaries</li>
-            <li>Privilege</li>
-            </ul>
-            </div>  
+
         </div>
-        <div>
-        <p> A Better Understanding uses <strong>Power of The PA{" "}</strong>
-            to create <strong>sustainable</strong> bridges between employees and their managers. Designed 
-            and led by a team of Personal and Executive Assistants, <strong>scheduling efficiency</strong> is 
-            key to success. 
-            </p> 
+        <div className="about-bold text-standout">
+            <p>Get to know your business, without the survey-fatigue!</p>
             </div> 
+
     </div>
 
     <div className="row row-margin">
