@@ -49,9 +49,6 @@ DEI needs Assistants.
 </div>
         <div className="col mb-3">
             <p> 
-Measuring success with attendance and participant reviews was the only PR necessary; 
-5-star ratings and consistent engagement meant participant numbers doubled by the second year, with many more applicants wait-listed across eager service lines.
-
 A Better Understanding’s framework draws upon Becca’s Power of the PA: time efficiency, an appreciation for simplicity, and the confidence to speak comfortably with anyone, regardless of business titles. After all, who better to create sustainable, budget-friendly bridges between employees than the Assistants already doing so within the busiest of business schedules? 
             </p>
 
