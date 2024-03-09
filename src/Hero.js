@@ -20,7 +20,7 @@ export default function Hero() {
         </div>
         <div className="row">
         <h2>
-        Power of the PA | Reverse Mentoring
+       The Power of the PA: Reverse Mentoring Consultant
         </h2>
         </div>
         <div className="row">
